@@ -1,10 +1,3 @@
-//
-//  ContentView.swift
-//  eplate
-//
-//  Created by tomaszku on 20/06/2026.
-//
-
 import SwiftUI
 
 struct ContentView: View {
