@@ -1,0 +1,431 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 77;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		110CC5182897E9FCFF3F9BCE /* ResultCardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 15A90715B34A123E1C30577D /* ResultCardView.swift */; };
+		23D20AE3FA28D1B3210DA791 /* powiaty.geojson in Resources */ = {isa = PBXBuildFile; fileRef = 3328FCD881150EE942498E99 /* powiaty.geojson */; };
+		2C4D2D6578C29A2941AC9664 /* PlateDatabase.swift in Sources */ = {isa = PBXBuildFile; fileRef = 26193435A2CE090599DF5936 /* PlateDatabase.swift */; };
+		3FBF87BBFF386517E5B880FE /* LookupRowView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5A9D6E59AB354F19EDF84B86 /* LookupRowView.swift */; };
+		42D7EBD67BC1C421D26A59D7 /* polish_plates.json in Resources */ = {isa = PBXBuildFile; fileRef = 23EEF488E5D36F74EA2685F4 /* polish_plates.json */; };
+		557708BF7D7B1F3A86B90420 /* CameraScannerViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6AB168BB4AD8CB0016631152 /* CameraScannerViewController.swift */; };
+		5BD14EF23FAAD96705A36953 /* HistoryView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BF13E00642EF24C2E3E3666 /* HistoryView.swift */; };
+		7B164A0FCD1A734CC9B41A01 /* CollectionDetailListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 19328C01CBA939F7412CDF9E /* CollectionDetailListView.swift */; };
+		7D983259A8195AA4ED178164 /* PoliceDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 571242C36FACF837187FBC86 /* PoliceDetailView.swift */; };
+		8155746C0BE5EE7106E7D74C /* ScannerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 08EA3E3A519A4224877671EE /* ScannerView.swift */; };
+
+		9365180057E29A7BF9D6DED8 /* ViewExtensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = B772DE1334790DD52D9868FB /* ViewExtensions.swift */; };
+		95C63F3A3A260C1107FDEC80 /* TargetBracketsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94BD0648C78C5C0D0D885DCC /* TargetBracketsView.swift */; };
+		9643F154F223C39E2A4B9014 /* RegionModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF4CCFF30F6276F379549E60 /* RegionModel.swift */; };
+		9AEC312ACDF14F74E38E286B /* VoivodeshipDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B6A59153F368149CAC36289 /* VoivodeshipDetailView.swift */; };
+		B151A091E8134419257B4517 /* eplateApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 972528A41A08823ECAA55F59 /* eplateApp.swift */; };
+		BCF47AED25D2BE0CCAC12354 /* BoundaryManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = D96E4A484BC7C07CCB27F4CC /* BoundaryManager.swift */; };
+		D7478E6796C6E07E623429F6 /* ScanHistoryItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5A64CB7B79E02044CD37FC91 /* ScanHistoryItem.swift */; };
+		DD9A7AFE15AE088B60FBC532 /* ManualLookupView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10AEF246739C1EE1702DE300 /* ManualLookupView.swift */; };
+		E000A0B996D514AC8B99CDDD /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 88B6FA25E61CF43292EAA12D /* Assets.xcassets */; };
+		E14DD87BA9BF1E253561B299 /* CameraScannerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA785B1C1B599625ABD5E2EE /* CameraScannerView.swift */; };
+		E2FAFA831B866FE537B343E3 /* MainContainerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DC1B63286C695917C3026D64 /* MainContainerView.swift */; };
+		F4B2840B3B8A4F5E430C441A /* CollectionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7736EB968FB22E4EA542D021 /* CollectionView.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+
+		08EA3E3A519A4224877671EE /* ScannerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScannerView.swift; sourceTree = "<group>"; };
+		10AEF246739C1EE1702DE300 /* ManualLookupView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ManualLookupView.swift; sourceTree = "<group>"; };
+		15A90715B34A123E1C30577D /* ResultCardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResultCardView.swift; sourceTree = "<group>"; };
+		19328C01CBA939F7412CDF9E /* CollectionDetailListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CollectionDetailListView.swift; sourceTree = "<group>"; };
+		1B59D07A70EBA526BE6E607F /* eplate.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = eplate.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		23EEF488E5D36F74EA2685F4 /* polish_plates.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = polish_plates.json; sourceTree = "<group>"; };
+		26193435A2CE090599DF5936 /* PlateDatabase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlateDatabase.swift; sourceTree = "<group>"; };
+		3328FCD881150EE942498E99 /* powiaty.geojson */ = {isa = PBXFileReference; lastKnownFileType = text; path = powiaty.geojson; sourceTree = "<group>"; };
+		3B6A59153F368149CAC36289 /* VoivodeshipDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VoivodeshipDetailView.swift; sourceTree = "<group>"; };
+		571242C36FACF837187FBC86 /* PoliceDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PoliceDetailView.swift; sourceTree = "<group>"; };
+		5A64CB7B79E02044CD37FC91 /* ScanHistoryItem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScanHistoryItem.swift; sourceTree = "<group>"; };
+		5A9D6E59AB354F19EDF84B86 /* LookupRowView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LookupRowView.swift; sourceTree = "<group>"; };
+		6AB168BB4AD8CB0016631152 /* CameraScannerViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CameraScannerViewController.swift; sourceTree = "<group>"; };
+		7736EB968FB22E4EA542D021 /* CollectionView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CollectionView.swift; sourceTree = "<group>"; };
+		7BF13E00642EF24C2E3E3666 /* HistoryView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HistoryView.swift; sourceTree = "<group>"; };
+		88B6FA25E61CF43292EAA12D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		94BD0648C78C5C0D0D885DCC /* TargetBracketsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TargetBracketsView.swift; sourceTree = "<group>"; };
+		972528A41A08823ECAA55F59 /* eplateApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = eplateApp.swift; sourceTree = "<group>"; };
+		B772DE1334790DD52D9868FB /* ViewExtensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewExtensions.swift; sourceTree = "<group>"; };
+		BA785B1C1B599625ABD5E2EE /* CameraScannerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CameraScannerView.swift; sourceTree = "<group>"; };
+		D96E4A484BC7C07CCB27F4CC /* BoundaryManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BoundaryManager.swift; sourceTree = "<group>"; };
+		DC1B63286C695917C3026D64 /* MainContainerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainContainerView.swift; sourceTree = "<group>"; };
+		EF4CCFF30F6276F379549E60 /* RegionModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RegionModel.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		0A8DB515EC7748E3E012B0CD /* eplate */ = {
+			isa = PBXGroup;
+			children = (
+				972528A41A08823ECAA55F59 /* eplateApp.swift */,
+				0B830E713878DAC9216F317B /* Models */,
+				A2C7691149BCE031221467CA /* Resources */,
+				245B1ADF32820AF239E2B626 /* Services */,
+				7AC63A20FC6E72EA47F7ED28 /* Views */,
+			);
+			path = eplate;
+			sourceTree = "<group>";
+		};
+		0B830E713878DAC9216F317B /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				EF4CCFF30F6276F379549E60 /* RegionModel.swift */,
+				5A64CB7B79E02044CD37FC91 /* ScanHistoryItem.swift */,
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		1D833EF7CA6BF583FD3E202C = {
+			isa = PBXGroup;
+			children = (
+				0A8DB515EC7748E3E012B0CD /* eplate */,
+				F1381129A26AEB615031ED8C /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		245B1ADF32820AF239E2B626 /* Services */ = {
+			isa = PBXGroup;
+			children = (
+				D96E4A484BC7C07CCB27F4CC /* BoundaryManager.swift */,
+				26193435A2CE090599DF5936 /* PlateDatabase.swift */,
+			);
+			path = Services;
+			sourceTree = "<group>";
+		};
+		7AC63A20FC6E72EA47F7ED28 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				BA785B1C1B599625ABD5E2EE /* CameraScannerView.swift */,
+				6AB168BB4AD8CB0016631152 /* CameraScannerViewController.swift */,
+				19328C01CBA939F7412CDF9E /* CollectionDetailListView.swift */,
+				7736EB968FB22E4EA542D021 /* CollectionView.swift */,
+
+				7BF13E00642EF24C2E3E3666 /* HistoryView.swift */,
+				5A9D6E59AB354F19EDF84B86 /* LookupRowView.swift */,
+				DC1B63286C695917C3026D64 /* MainContainerView.swift */,
+				10AEF246739C1EE1702DE300 /* ManualLookupView.swift */,
+				571242C36FACF837187FBC86 /* PoliceDetailView.swift */,
+				15A90715B34A123E1C30577D /* ResultCardView.swift */,
+				08EA3E3A519A4224877671EE /* ScannerView.swift */,
+				94BD0648C78C5C0D0D885DCC /* TargetBracketsView.swift */,
+				B772DE1334790DD52D9868FB /* ViewExtensions.swift */,
+				3B6A59153F368149CAC36289 /* VoivodeshipDetailView.swift */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		A2C7691149BCE031221467CA /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				88B6FA25E61CF43292EAA12D /* Assets.xcassets */,
+				23EEF488E5D36F74EA2685F4 /* polish_plates.json */,
+				3328FCD881150EE942498E99 /* powiaty.geojson */,
+			);
+			path = Resources;
+			sourceTree = "<group>";
+		};
+		F1381129A26AEB615031ED8C /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				1B59D07A70EBA526BE6E607F /* eplate.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		5FD96DC71F64B0843457B025 /* eplate */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 5368CEABD2E37C68547E91E0 /* Build configuration list for PBXNativeTarget "eplate" */;
+			buildPhases = (
+				FBBCD5BD65585299C9FB0741 /* Sources */,
+				416027B10416BEDB227E99D6 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = eplate;
+			packageProductDependencies = (
+			);
+			productName = eplate;
+			productReference = 1B59D07A70EBA526BE6E607F /* eplate.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		7EEBCB147B3A414D6AE9A6BC /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = YES;
+				LastUpgradeCheck = 1430;
+			};
+			buildConfigurationList = 0B37EC4C2338448DD82D8462 /* Build configuration list for PBXProject "eplate" */;
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				Base,
+				en,
+			);
+			mainGroup = 1D833EF7CA6BF583FD3E202C;
+			minimizedProjectReferenceProxies = 1;
+			preferredProjectObjectVersion = 77;
+			productRefGroup = F1381129A26AEB615031ED8C /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				5FD96DC71F64B0843457B025 /* eplate */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		416027B10416BEDB227E99D6 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				E000A0B996D514AC8B99CDDD /* Assets.xcassets in Resources */,
+				42D7EBD67BC1C421D26A59D7 /* polish_plates.json in Resources */,
+				23D20AE3FA28D1B3210DA791 /* powiaty.geojson in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		FBBCD5BD65585299C9FB0741 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				BCF47AED25D2BE0CCAC12354 /* BoundaryManager.swift in Sources */,
+				E14DD87BA9BF1E253561B299 /* CameraScannerView.swift in Sources */,
+				557708BF7D7B1F3A86B90420 /* CameraScannerViewController.swift in Sources */,
+				7B164A0FCD1A734CC9B41A01 /* CollectionDetailListView.swift in Sources */,
+				F4B2840B3B8A4F5E430C441A /* CollectionView.swift in Sources */,
+
+				5BD14EF23FAAD96705A36953 /* HistoryView.swift in Sources */,
+				3FBF87BBFF386517E5B880FE /* LookupRowView.swift in Sources */,
+				E2FAFA831B866FE537B343E3 /* MainContainerView.swift in Sources */,
+				DD9A7AFE15AE088B60FBC532 /* ManualLookupView.swift in Sources */,
+				2C4D2D6578C29A2941AC9664 /* PlateDatabase.swift in Sources */,
+				7D983259A8195AA4ED178164 /* PoliceDetailView.swift in Sources */,
+				9643F154F223C39E2A4B9014 /* RegionModel.swift in Sources */,
+				110CC5182897E9FCFF3F9BCE /* ResultCardView.swift in Sources */,
+				D7478E6796C6E07E623429F6 /* ScanHistoryItem.swift in Sources */,
+				8155746C0BE5EE7106E7D74C /* ScannerView.swift in Sources */,
+				95C63F3A3A260C1107FDEC80 /* TargetBracketsView.swift in Sources */,
+				9365180057E29A7BF9D6DED8 /* ViewExtensions.swift in Sources */,
+				9AEC312ACDF14F74E38E286B /* VoivodeshipDetailView.swift in Sources */,
+				B151A091E8134419257B4517 /* eplateApp.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		217C2E551C28F84E752AF155 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "Apple Development";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = FWL6ZCT36X;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_CFBundleDisplayName = Rejestrator;
+				INFOPLIST_KEY_CFBundleName = Rejestrator;
+				INFOPLIST_KEY_NSCameraUsageDescription = "Aplikacja używa aparatu do skanowania tablic rejestracyjnych.";
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UIRequiresFullScreen = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.tomaszek.eplate;
+				PROVISIONING_PROFILE_SPECIFIER = "";
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		38BB43C7FD752BA3FD07CF27 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"$(inherited)",
+					"DEBUG=1",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				SWIFT_VERSION = 5.0;
+			};
+			name = Debug;
+		};
+		5E63D585351734CE6AF88CCD /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				SWIFT_VERSION = 5.0;
+			};
+			name = Release;
+		};
+		D3547267E758B58165124C73 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "Apple Development";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = FWL6ZCT36X;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_CFBundleDisplayName = Rejestrator;
+				INFOPLIST_KEY_CFBundleName = Rejestrator;
+				INFOPLIST_KEY_NSCameraUsageDescription = "Aplikacja używa aparatu do skanowania tablic rejestracyjnych.";
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UIRequiresFullScreen = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.tomaszek.eplate;
+				PROVISIONING_PROFILE_SPECIFIER = "";
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		0B37EC4C2338448DD82D8462 /* Build configuration list for PBXProject "eplate" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				38BB43C7FD752BA3FD07CF27 /* Debug */,
+				5E63D585351734CE6AF88CCD /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Debug;
+		};
+		5368CEABD2E37C68547E91E0 /* Build configuration list for PBXNativeTarget "eplate" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				217C2E551C28F84E752AF155 /* Debug */,
+				D3547267E758B58165124C73 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Debug;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 7EEBCB147B3A414D6AE9A6BC /* Project object */;
+}

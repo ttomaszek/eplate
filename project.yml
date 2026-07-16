@@ -1,0 +1,22 @@
+name: eplate
+options:
+  bundleIdPrefix: com.tomaszek
+targets:
+  eplate:
+    type: application
+    platform: iOS
+    deploymentTarget: "17.0"
+    sources:
+      - eplate
+    settings:
+      GENERATE_INFOPLIST_FILE: true
+      INFOPLIST_KEY_CFBundleDisplayName: "Rejestrator"
+      INFOPLIST_KEY_CFBundleName: "Rejestrator"
+      INFOPLIST_KEY_NSCameraUsageDescription: "Aplikacja używa aparatu do skanowania tablic rejestracyjnych."
+      INFOPLIST_KEY_UILaunchScreen_Generation: true
+      INFOPLIST_KEY_UIRequiresFullScreen: true
+      INFOPLIST_KEY_UISupportedInterfaceOrientations: UIInterfaceOrientationPortrait
+      PRODUCT_BUNDLE_IDENTIFIER: com.tomaszek.eplate
+      MARKETING_VERSION: "1.0.0"
+      CURRENT_PROJECT_VERSION: "1"
+      ASSETCATALOG_COMPILER_APPICON_NAME: AppIcon

@@ -1,0 +1,3327 @@
+[
+  {
+    "prefix": "BI",
+    "powiat": "Białystok",
+    "wojewodztwo": "Podlaskie",
+    "seat": "Białystok",
+    "type": "urban"
+  },
+  {
+    "prefix": "BS",
+    "powiat": "Suwałki",
+    "wojewodztwo": "Podlaskie",
+    "seat": "Suwałki",
+    "type": "urban"
+  },
+  {
+    "prefix": "BL",
+    "powiat": "Łomża",
+    "wojewodztwo": "Podlaskie",
+    "seat": "Łomża",
+    "type": "urban"
+  },
+  {
+    "prefix": "BAU",
+    "powiat": "augustowski",
+    "wojewodztwo": "Podlaskie",
+    "seat": "Augustów",
+    "type": "rural"
+  },
+  {
+    "prefix": "BIA",
+    "powiat": "białostocki",
+    "wojewodztwo": "Podlaskie",
+    "seat": "Białystok",
+    "type": "rural"
+  },
+  {
+    "prefix": "BBI",
+    "powiat": "bielski",
+    "wojewodztwo": "Podlaskie",
+    "seat": "Bielsk Podlaski",
+    "type": "rural"
+  },
+  {
+    "prefix": "BGR",
+    "powiat": "grajewski",
+    "wojewodztwo": "Podlaskie",
+    "seat": "Grajewo",
+    "type": "rural"
+  },
+  {
+    "prefix": "BHA",
+    "powiat": "hajnowski",
+    "wojewodztwo": "Podlaskie",
+    "seat": "Hajnówka",
+    "type": "rural"
+  },
+  {
+    "prefix": "BKL",
+    "powiat": "kolneński",
+    "wojewodztwo": "Podlaskie",
+    "seat": "Kolno",
+    "type": "rural"
+  },
+  {
+    "prefix": "BMN",
+    "powiat": "moniecki",
+    "wojewodztwo": "Podlaskie",
+    "seat": "Mońki",
+    "type": "rural"
+  },
+  {
+    "prefix": "BSE",
+    "powiat": "sejneński",
+    "wojewodztwo": "Podlaskie",
+    "seat": "Sejny",
+    "type": "rural"
+  },
+  {
+    "prefix": "BSI",
+    "powiat": "siemiatycki",
+    "wojewodztwo": "Podlaskie",
+    "seat": "Siemiatycze",
+    "type": "rural"
+  },
+  {
+    "prefix": "BSK",
+    "powiat": "sokólski",
+    "wojewodztwo": "Podlaskie",
+    "seat": "Sokółka",
+    "type": "rural"
+  },
+  {
+    "prefix": "BSU",
+    "powiat": "suwalski",
+    "wojewodztwo": "Podlaskie",
+    "seat": "Suwałki",
+    "type": "rural"
+  },
+  {
+    "prefix": "BWM",
+    "powiat": "wysokomazowiecki",
+    "wojewodztwo": "Podlaskie",
+    "seat": "Wysokie Mazowieckie",
+    "type": "rural"
+  },
+  {
+    "prefix": "BZA",
+    "powiat": "zambrowski",
+    "wojewodztwo": "Podlaskie",
+    "seat": "Zambrów",
+    "type": "rural"
+  },
+  {
+    "prefix": "BLM",
+    "powiat": "łomżyński",
+    "wojewodztwo": "Podlaskie",
+    "seat": "Łomża",
+    "type": "rural"
+  },
+  {
+    "prefix": "CB",
+    "powiat": "Bydgoszcz",
+    "wojewodztwo": "Kujawsko-pomorskie",
+    "seat": "Bydgoszcz",
+    "type": "urban"
+  },
+  {
+    "prefix": "CG",
+    "powiat": "Grudziądz",
+    "wojewodztwo": "Kujawsko-pomorskie",
+    "seat": "Grudziądz",
+    "type": "urban"
+  },
+  {
+    "prefix": "CT",
+    "powiat": "Toruń",
+    "wojewodztwo": "Kujawsko-pomorskie",
+    "seat": "Toruń",
+    "type": "urban"
+  },
+  {
+    "prefix": "CW",
+    "powiat": "Włocławek",
+    "wojewodztwo": "Kujawsko-pomorskie",
+    "seat": "Włocławek",
+    "type": "urban"
+  },
+  {
+    "prefix": "CAL",
+    "powiat": "aleksandrowski",
+    "wojewodztwo": "Kujawsko-pomorskie",
+    "seat": "Aleksandrów Kujawski",
+    "type": "rural"
+  },
+  {
+    "prefix": "CBR",
+    "powiat": "brodnicki",
+    "wojewodztwo": "Kujawsko-pomorskie",
+    "seat": "Brodnica",
+    "type": "rural"
+  },
+  {
+    "prefix": "CBY",
+    "powiat": "bydgoski",
+    "wojewodztwo": "Kujawsko-pomorskie",
+    "seat": "Bydgoszcz",
+    "type": "rural"
+  },
+  {
+    "prefix": "CCH",
+    "powiat": "chełmiński",
+    "wojewodztwo": "Kujawsko-pomorskie",
+    "seat": "Chełmno",
+    "type": "rural"
+  },
+  {
+    "prefix": "CGD",
+    "powiat": "golubsko-dobrzyński",
+    "wojewodztwo": "Kujawsko-pomorskie",
+    "seat": "Golub-Dobrzyń",
+    "type": "rural"
+  },
+  {
+    "prefix": "CGR",
+    "powiat": "grudziądzki",
+    "wojewodztwo": "Kujawsko-pomorskie",
+    "seat": "Grudziądz",
+    "type": "rural"
+  },
+  {
+    "prefix": "CIN",
+    "powiat": "inowrocławski",
+    "wojewodztwo": "Kujawsko-pomorskie",
+    "seat": "Inowrocław",
+    "type": "rural"
+  },
+  {
+    "prefix": "CLI",
+    "powiat": "lipnowski",
+    "wojewodztwo": "Kujawsko-pomorskie",
+    "seat": "Lipno",
+    "type": "rural"
+  },
+  {
+    "prefix": "CMG",
+    "powiat": "mogileński",
+    "wojewodztwo": "Kujawsko-pomorskie",
+    "seat": "Mogilno",
+    "type": "rural"
+  },
+  {
+    "prefix": "CNA",
+    "powiat": "nakielski",
+    "wojewodztwo": "Kujawsko-pomorskie",
+    "seat": "Nakło nad Notecią",
+    "type": "rural"
+  },
+  {
+    "prefix": "CRA",
+    "powiat": "radziejowski",
+    "wojewodztwo": "Kujawsko-pomorskie",
+    "seat": "Radziejów",
+    "type": "rural"
+  },
+  {
+    "prefix": "CRY",
+    "powiat": "rypiński",
+    "wojewodztwo": "Kujawsko-pomorskie",
+    "seat": "Rypin",
+    "type": "rural"
+  },
+  {
+    "prefix": "CSE",
+    "powiat": "sępoleński",
+    "wojewodztwo": "Kujawsko-pomorskie",
+    "seat": "Sępólno Krajeńskie",
+    "type": "rural"
+  },
+  {
+    "prefix": "CSW",
+    "powiat": "świecki",
+    "wojewodztwo": "Kujawsko-pomorskie",
+    "seat": "Świecie",
+    "type": "rural"
+  },
+  {
+    "prefix": "CTR",
+    "powiat": "toruński",
+    "wojewodztwo": "Kujawsko-pomorskie",
+    "seat": "Toruń",
+    "type": "rural"
+  },
+  {
+    "prefix": "CTU",
+    "powiat": "tucholski",
+    "wojewodztwo": "Kujawsko-pomorskie",
+    "seat": "Tuchola",
+    "type": "rural"
+  },
+  {
+    "prefix": "CWA",
+    "powiat": "wąbrzeski",
+    "wojewodztwo": "Kujawsko-pomorskie",
+    "seat": "Wąbrzeźno",
+    "type": "rural"
+  },
+  {
+    "prefix": "CWL",
+    "powiat": "włocławski",
+    "wojewodztwo": "Kujawsko-pomorskie",
+    "seat": "Włocławek",
+    "type": "rural"
+  },
+  {
+    "prefix": "CZN",
+    "powiat": "żniński",
+    "wojewodztwo": "Kujawsko-pomorskie",
+    "seat": "Żnin",
+    "type": "rural"
+  },
+  {
+    "prefix": "DJ",
+    "powiat": "Jelenia Góra",
+    "wojewodztwo": "Dolnośląskie",
+    "seat": "Jelenia Góra",
+    "type": "urban"
+  },
+  {
+    "prefix": "DL",
+    "powiat": "Legnica",
+    "wojewodztwo": "Dolnośląskie",
+    "seat": "Legnica",
+    "type": "urban"
+  },
+  {
+    "prefix": "DB",
+    "powiat": "Wałbrzych",
+    "wojewodztwo": "Dolnośląskie",
+    "seat": "Wałbrzych",
+    "type": "urban"
+  },
+  {
+    "prefix": "DW",
+    "powiat": "Wrocław",
+    "wojewodztwo": "Dolnośląskie",
+    "seat": "Wrocław",
+    "type": "urban"
+  },
+  {
+    "prefix": "DBL",
+    "powiat": "bolesławiecki",
+    "wojewodztwo": "Dolnośląskie",
+    "seat": "Bolesławiec",
+    "type": "rural"
+  },
+  {
+    "prefix": "DDZ",
+    "powiat": "dzierżoniowski",
+    "wojewodztwo": "Dolnośląskie",
+    "seat": "Dzierżoniów",
+    "type": "rural"
+  },
+  {
+    "prefix": "DGR",
+    "powiat": "górowski",
+    "wojewodztwo": "Dolnośląskie",
+    "seat": "Góra",
+    "type": "rural"
+  },
+  {
+    "prefix": "DGL",
+    "powiat": "głogowski",
+    "wojewodztwo": "Dolnośląskie",
+    "seat": "Głogów",
+    "type": "rural"
+  },
+  {
+    "prefix": "DJA",
+    "powiat": "jaworski",
+    "wojewodztwo": "Dolnośląskie",
+    "seat": "Jawor",
+    "type": "rural"
+  },
+  {
+    "prefix": "DJE",
+    "powiat": "karkonoski",
+    "wojewodztwo": "Dolnośląskie",
+    "seat": "Jelenia Góra",
+    "type": "rural"
+  },
+  {
+    "prefix": "DKA",
+    "powiat": "kamiennogórski",
+    "wojewodztwo": "Dolnośląskie",
+    "seat": "Kamienna Góra",
+    "type": "rural"
+  },
+  {
+    "prefix": "DKL",
+    "powiat": "kłodzki",
+    "wojewodztwo": "Dolnośląskie",
+    "seat": "Kłodzko",
+    "type": "rural"
+  },
+  {
+    "prefix": "DLE",
+    "powiat": "legnicki",
+    "wojewodztwo": "Dolnośląskie",
+    "seat": "Legnica",
+    "type": "rural"
+  },
+  {
+    "prefix": "DLB",
+    "powiat": "lubański",
+    "wojewodztwo": "Dolnośląskie",
+    "seat": "Lubań",
+    "type": "rural"
+  },
+  {
+    "prefix": "DLU",
+    "powiat": "lubiński",
+    "wojewodztwo": "Dolnośląskie",
+    "seat": "Lubin",
+    "type": "rural"
+  },
+  {
+    "prefix": "DLW",
+    "powiat": "lwówecki",
+    "wojewodztwo": "Dolnośląskie",
+    "seat": "Lwówek Śląski",
+    "type": "rural"
+  },
+  {
+    "prefix": "DMI",
+    "powiat": "milicki",
+    "wojewodztwo": "Dolnośląskie",
+    "seat": "Milicz",
+    "type": "rural"
+  },
+  {
+    "prefix": "DOL",
+    "powiat": "oleśnicki",
+    "wojewodztwo": "Dolnośląskie",
+    "seat": "Oleśnica",
+    "type": "rural"
+  },
+  {
+    "prefix": "DOA",
+    "powiat": "oławski",
+    "wojewodztwo": "Dolnośląskie",
+    "seat": "Oława",
+    "type": "rural"
+  },
+  {
+    "prefix": "DPL",
+    "powiat": "polkowicki",
+    "wojewodztwo": "Dolnośląskie",
+    "seat": "Polkowice",
+    "type": "rural"
+  },
+  {
+    "prefix": "DSR",
+    "powiat": "średzki",
+    "wojewodztwo": "Dolnośląskie",
+    "seat": "Środa Śląska",
+    "type": "rural"
+  },
+  {
+    "prefix": "DST",
+    "powiat": "strzeliński",
+    "wojewodztwo": "Dolnośląskie",
+    "seat": "Strzelin",
+    "type": "rural"
+  },
+  {
+    "prefix": "DSW",
+    "powiat": "świdnicki",
+    "wojewodztwo": "Dolnośląskie",
+    "seat": "Świdnica",
+    "type": "rural"
+  },
+  {
+    "prefix": "DTR",
+    "powiat": "trzebnicki",
+    "wojewodztwo": "Dolnośląskie",
+    "seat": "Trzebnica",
+    "type": "rural"
+  },
+  {
+    "prefix": "DBA",
+    "powiat": "wałbrzyski",
+    "wojewodztwo": "Dolnośląskie",
+    "seat": "Wałbrzych",
+    "type": "rural"
+  },
+  {
+    "prefix": "DWL",
+    "powiat": "wołowski",
+    "wojewodztwo": "Dolnośląskie",
+    "seat": "Wołów",
+    "type": "rural"
+  },
+  {
+    "prefix": "DWR",
+    "powiat": "wrocławski",
+    "wojewodztwo": "Dolnośląskie",
+    "seat": "Wrocławski",
+    "type": "rural"
+  },
+  {
+    "prefix": "DZA",
+    "powiat": "ząbkowicki",
+    "wojewodztwo": "Dolnośląskie",
+    "seat": "Ząbkowice Śląskie",
+    "type": "rural"
+  },
+  {
+    "prefix": "DZG",
+    "powiat": "zgorzelecki",
+    "wojewodztwo": "Dolnośląskie",
+    "seat": "Zgorzelec",
+    "type": "rural"
+  },
+  {
+    "prefix": "DZL",
+    "powiat": "złotoryjski",
+    "wojewodztwo": "Dolnośląskie",
+    "seat": "Złotoryja",
+    "type": "rural"
+  },
+  {
+    "prefix": "EP",
+    "powiat": "Piotrków Trybunalski",
+    "wojewodztwo": "Łódzkie",
+    "seat": "Piotrków Trybunalski",
+    "type": "urban"
+  },
+  {
+    "prefix": "ES",
+    "powiat": "Skierniewice",
+    "wojewodztwo": "Łódzkie",
+    "seat": "Skierniewice",
+    "type": "urban"
+  },
+  {
+    "prefix": "EL",
+    "powiat": "i ED Łódź",
+    "wojewodztwo": "Łódzkie",
+    "seat": "i ED Łódź",
+    "type": "urban"
+  },
+  {
+    "prefix": "EBE",
+    "powiat": "bełchatowski",
+    "wojewodztwo": "Łódzkie",
+    "seat": "Bełchatów",
+    "type": "rural"
+  },
+  {
+    "prefix": "EBR",
+    "powiat": "brzeziński",
+    "wojewodztwo": "Łódzkie",
+    "seat": "Brzeziny",
+    "type": "rural"
+  },
+  {
+    "prefix": "EKU",
+    "powiat": "kutnowski",
+    "wojewodztwo": "Łódzkie",
+    "seat": "Kutno",
+    "type": "rural"
+  },
+  {
+    "prefix": "EOP",
+    "powiat": "opoczyński",
+    "wojewodztwo": "Łódzkie",
+    "seat": "Opoczno",
+    "type": "rural"
+  },
+  {
+    "prefix": "EPA",
+    "powiat": "pabianicki",
+    "wojewodztwo": "Łódzkie",
+    "seat": "Pabianice",
+    "type": "rural"
+  },
+  {
+    "prefix": "EPJ",
+    "powiat": "pajęczański",
+    "wojewodztwo": "Łódzkie",
+    "seat": "Pajęczno",
+    "type": "rural"
+  },
+  {
+    "prefix": "EPI",
+    "powiat": "piotrkowski",
+    "wojewodztwo": "Łódzkie",
+    "seat": "Piotrków Trybunalski",
+    "type": "rural"
+  },
+  {
+    "prefix": "EPD",
+    "powiat": "poddębicki",
+    "wojewodztwo": "Łódzkie",
+    "seat": "Poddębice",
+    "type": "rural"
+  },
+  {
+    "prefix": "ERA",
+    "powiat": "radomszczański",
+    "wojewodztwo": "Łódzkie",
+    "seat": "Radomsko",
+    "type": "rural"
+  },
+  {
+    "prefix": "ERW",
+    "powiat": "rawski",
+    "wojewodztwo": "Łódzkie",
+    "seat": "Rawa Mazowiecka",
+    "type": "rural"
+  },
+  {
+    "prefix": "ESI",
+    "powiat": "sieradzki",
+    "wojewodztwo": "Łódzkie",
+    "seat": "Sieradz",
+    "type": "rural"
+  },
+  {
+    "prefix": "ESK",
+    "powiat": "skierniewicki",
+    "wojewodztwo": "Łódzkie",
+    "seat": "Skierniewice",
+    "type": "rural"
+  },
+  {
+    "prefix": "ETM",
+    "powiat": "tomaszowski",
+    "wojewodztwo": "Łódzkie",
+    "seat": "Tomaszów Mazowiecki",
+    "type": "rural"
+  },
+  {
+    "prefix": "EWI",
+    "powiat": "wieluński",
+    "wojewodztwo": "Łódzkie",
+    "seat": "Wieluń",
+    "type": "rural"
+  },
+  {
+    "prefix": "EWE",
+    "powiat": "wieruszowski",
+    "wojewodztwo": "Łódzkie",
+    "seat": "Wieruszów",
+    "type": "rural"
+  },
+  {
+    "prefix": "EZD",
+    "powiat": "zduńskowolski",
+    "wojewodztwo": "Łódzkie",
+    "seat": "Zduńska Wola",
+    "type": "rural"
+  },
+  {
+    "prefix": "EZG",
+    "powiat": "zgierski",
+    "wojewodztwo": "Łódzkie",
+    "seat": "Zgierz",
+    "type": "rural"
+  },
+  {
+    "prefix": "ELA",
+    "powiat": "łaski",
+    "wojewodztwo": "Łódzkie",
+    "seat": "Łask",
+    "type": "rural"
+  },
+  {
+    "prefix": "ELE",
+    "powiat": "łęczycki",
+    "wojewodztwo": "Łódzkie",
+    "seat": "Łęczyca",
+    "type": "rural"
+  },
+  {
+    "prefix": "ELW",
+    "powiat": "łódzki wschodni",
+    "wojewodztwo": "Łódzkie",
+    "seat": "Łódź",
+    "type": "rural"
+  },
+  {
+    "prefix": "ELC",
+    "powiat": "łowicki",
+    "wojewodztwo": "Łódzkie",
+    "seat": "Łowicz",
+    "type": "rural"
+  },
+  {
+    "prefix": "FG",
+    "powiat": "Gorzów Wielkopolski",
+    "wojewodztwo": "Lubuskie",
+    "seat": "Gorzów Wielkopolski",
+    "type": "urban"
+  },
+  {
+    "prefix": "FZ",
+    "powiat": "Zielona Góra",
+    "wojewodztwo": "Lubuskie",
+    "seat": "Zielona Góra",
+    "type": "urban"
+  },
+  {
+    "prefix": "FGW",
+    "powiat": "gorzowski",
+    "wojewodztwo": "Lubuskie",
+    "seat": "Gorzów Wielkopolski",
+    "type": "rural"
+  },
+  {
+    "prefix": "FKR",
+    "powiat": "krośnieński",
+    "wojewodztwo": "Lubuskie",
+    "seat": "Krosno Odrzańskie",
+    "type": "rural"
+  },
+  {
+    "prefix": "FMI",
+    "powiat": "międzyrzecki",
+    "wojewodztwo": "Lubuskie",
+    "seat": "Międzyrzecz",
+    "type": "rural"
+  },
+  {
+    "prefix": "FNW",
+    "powiat": "nowosolski",
+    "wojewodztwo": "Lubuskie",
+    "seat": "Nowa Sól",
+    "type": "rural"
+  },
+  {
+    "prefix": "FSD",
+    "powiat": "strzelecko-drezdenecki",
+    "wojewodztwo": "Lubuskie",
+    "seat": "Strzelce Krajeńskie",
+    "type": "rural"
+  },
+  {
+    "prefix": "FSU",
+    "powiat": "sulęciński",
+    "wojewodztwo": "Lubuskie",
+    "seat": "Sulęcin",
+    "type": "rural"
+  },
+  {
+    "prefix": "FSW",
+    "powiat": "świebodziński",
+    "wojewodztwo": "Lubuskie",
+    "seat": "Świebodzin",
+    "type": "rural"
+  },
+  {
+    "prefix": "FSL",
+    "powiat": "słubicki",
+    "wojewodztwo": "Lubuskie",
+    "seat": "Słubice",
+    "type": "rural"
+  },
+  {
+    "prefix": "FWS",
+    "powiat": "wschowski",
+    "wojewodztwo": "Lubuskie",
+    "seat": "Wschowa",
+    "type": "rural"
+  },
+  {
+    "prefix": "FZG",
+    "powiat": "żagański",
+    "wojewodztwo": "Lubuskie",
+    "seat": "Żagań",
+    "type": "rural"
+  },
+  {
+    "prefix": "FZA",
+    "powiat": "żarski",
+    "wojewodztwo": "Lubuskie",
+    "seat": "Żary",
+    "type": "rural"
+  },
+  {
+    "prefix": "FZI",
+    "powiat": "zielonogórski",
+    "wojewodztwo": "Lubuskie",
+    "seat": "Zielona Góra",
+    "type": "rural"
+  },
+  {
+    "prefix": "GD",
+    "powiat": "Gdańsk",
+    "wojewodztwo": "Pomorskie",
+    "seat": "Gdańsk",
+    "type": "urban"
+  },
+  {
+    "prefix": "GA",
+    "powiat": "Gdynia",
+    "wojewodztwo": "Pomorskie",
+    "seat": "Gdynia",
+    "type": "urban"
+  },
+  {
+    "prefix": "GSP",
+    "powiat": "Sopot",
+    "wojewodztwo": "Pomorskie",
+    "seat": "Sopot",
+    "type": "urban"
+  },
+  {
+    "prefix": "GS",
+    "powiat": "Słupsk",
+    "wojewodztwo": "Pomorskie",
+    "seat": "Słupsk",
+    "type": "urban"
+  },
+  {
+    "prefix": "GBY",
+    "powiat": "bytowski",
+    "wojewodztwo": "Pomorskie",
+    "seat": "Bytów",
+    "type": "rural"
+  },
+  {
+    "prefix": "GCH",
+    "powiat": "chojnicki",
+    "wojewodztwo": "Pomorskie",
+    "seat": "Chojnice",
+    "type": "rural"
+  },
+  {
+    "prefix": "GCZ",
+    "powiat": "człuchowski",
+    "wojewodztwo": "Pomorskie",
+    "seat": "Człuchów",
+    "type": "rural"
+  },
+  {
+    "prefix": "GDA",
+    "powiat": "gdański",
+    "wojewodztwo": "Pomorskie",
+    "seat": "Pruszcz Gdański",
+    "type": "rural"
+  },
+  {
+    "prefix": "GKA",
+    "powiat": "kartuski",
+    "wojewodztwo": "Pomorskie",
+    "seat": "Kartuzy",
+    "type": "rural"
+  },
+  {
+    "prefix": "GKS",
+    "powiat": "kościerski",
+    "wojewodztwo": "Pomorskie",
+    "seat": "Kościerzyna",
+    "type": "rural"
+  },
+  {
+    "prefix": "GKW",
+    "powiat": "kwidzyński",
+    "wojewodztwo": "Pomorskie",
+    "seat": "Kwidzyn",
+    "type": "rural"
+  },
+  {
+    "prefix": "GLE",
+    "powiat": "lęborski",
+    "wojewodztwo": "Pomorskie",
+    "seat": "Lębork",
+    "type": "rural"
+  },
+  {
+    "prefix": "GMB",
+    "powiat": "malborski",
+    "wojewodztwo": "Pomorskie",
+    "seat": "Malbork",
+    "type": "rural"
+  },
+  {
+    "prefix": "GND",
+    "powiat": "nowodworski",
+    "wojewodztwo": "Pomorskie",
+    "seat": "Nowy Dwór Gdański",
+    "type": "rural"
+  },
+  {
+    "prefix": "GPU",
+    "powiat": "pucki",
+    "wojewodztwo": "Pomorskie",
+    "seat": "Puck",
+    "type": "rural"
+  },
+  {
+    "prefix": "GST",
+    "powiat": "starogardzki",
+    "wojewodztwo": "Pomorskie",
+    "seat": "Starogardzki",
+    "type": "rural"
+  },
+  {
+    "prefix": "GSZ",
+    "powiat": "sztumski",
+    "wojewodztwo": "Pomorskie",
+    "seat": "Sztum",
+    "type": "rural"
+  },
+  {
+    "prefix": "GSL",
+    "powiat": "słupski",
+    "wojewodztwo": "Pomorskie",
+    "seat": "Słupsk",
+    "type": "rural"
+  },
+  {
+    "prefix": "GTC",
+    "powiat": "tczewski",
+    "wojewodztwo": "Pomorskie",
+    "seat": "Tczew",
+    "type": "rural"
+  },
+  {
+    "prefix": "GWE",
+    "powiat": "wejherowski",
+    "wojewodztwo": "Pomorskie",
+    "seat": "Wejherowo",
+    "type": "rural"
+  },
+  {
+    "prefix": "GWO",
+    "powiat": "wejherowski",
+    "wojewodztwo": "Pomorskie",
+    "seat": "Wejherowo",
+    "type": "rural"
+  },
+  {
+    "prefix": "KR",
+    "powiat": "Kraków",
+    "wojewodztwo": "Małopolskie",
+    "seat": "Kraków",
+    "type": "urban"
+  },
+  {
+    "prefix": "KK",
+    "powiat": "Kraków",
+    "wojewodztwo": "Małopolskie",
+    "seat": "Kraków",
+    "type": "urban"
+  },
+  {
+    "prefix": "KN",
+    "powiat": "Nowy Sącz",
+    "wojewodztwo": "Małopolskie",
+    "seat": "Nowy Sącz",
+    "type": "urban"
+  },
+  {
+    "prefix": "KT",
+    "powiat": "Tarnów",
+    "wojewodztwo": "Małopolskie",
+    "seat": "Tarnów",
+    "type": "urban"
+  },
+  {
+    "prefix": "KBC",
+    "powiat": "bocheński",
+    "wojewodztwo": "Małopolskie",
+    "seat": "Bochnia",
+    "type": "rural"
+  },
+  {
+    "prefix": "KBA",
+    "powiat": "bocheński",
+    "wojewodztwo": "Małopolskie",
+    "seat": "Bochnia",
+    "type": "rural"
+  },
+  {
+    "prefix": "KBR",
+    "powiat": "brzeski",
+    "wojewodztwo": "Małopolskie",
+    "seat": "Brzesko",
+    "type": "rural"
+  },
+  {
+    "prefix": "KCH",
+    "powiat": "chrzanowski",
+    "wojewodztwo": "Małopolskie",
+    "seat": "Chrzanów",
+    "type": "rural"
+  },
+  {
+    "prefix": "KDA",
+    "powiat": "dąbrowski",
+    "wojewodztwo": "Małopolskie",
+    "seat": "Dąbrowa Tarnowska",
+    "type": "rural"
+  },
+  {
+    "prefix": "KGR",
+    "powiat": "gorlicki",
+    "wojewodztwo": "Małopolskie",
+    "seat": "Gorlice",
+    "type": "rural"
+  },
+  {
+    "prefix": "KRA",
+    "powiat": "krakowski",
+    "wojewodztwo": "Małopolskie",
+    "seat": "Krakowski",
+    "type": "rural"
+  },
+  {
+    "prefix": "KLI",
+    "powiat": "limanowski",
+    "wojewodztwo": "Małopolskie",
+    "seat": "Limanowa",
+    "type": "rural"
+  },
+  {
+    "prefix": "KMI",
+    "powiat": "miechowski",
+    "wojewodztwo": "Małopolskie",
+    "seat": "Miechów",
+    "type": "rural"
+  },
+  {
+    "prefix": "KMY",
+    "powiat": "myślenicki",
+    "wojewodztwo": "Małopolskie",
+    "seat": "Myślenice",
+    "type": "rural"
+  },
+  {
+    "prefix": "KNS",
+    "powiat": "nowosądecki",
+    "wojewodztwo": "Małopolskie",
+    "seat": "Nowy Sącz",
+    "type": "rural"
+  },
+  {
+    "prefix": "KNT",
+    "powiat": "nowotarski",
+    "wojewodztwo": "Małopolskie",
+    "seat": "Nowy Targ",
+    "type": "rural"
+  },
+  {
+    "prefix": "KOL",
+    "powiat": "olkuski",
+    "wojewodztwo": "Małopolskie",
+    "seat": "Olkusz",
+    "type": "rural"
+  },
+  {
+    "prefix": "KOS",
+    "powiat": "oświęcimski",
+    "wojewodztwo": "Małopolskie",
+    "seat": "Oświęcim",
+    "type": "rural"
+  },
+  {
+    "prefix": "KPR",
+    "powiat": "proszowicki",
+    "wojewodztwo": "Małopolskie",
+    "seat": "Proszowice",
+    "type": "rural"
+  },
+  {
+    "prefix": "KSU",
+    "powiat": "suski",
+    "wojewodztwo": "Małopolskie",
+    "seat": "Sucha Beskidzka",
+    "type": "rural"
+  },
+  {
+    "prefix": "KTA",
+    "powiat": "tarnowski",
+    "wojewodztwo": "Małopolskie",
+    "seat": "Tarnów",
+    "type": "rural"
+  },
+  {
+    "prefix": "KTT",
+    "powiat": "tatrzański",
+    "wojewodztwo": "Małopolskie",
+    "seat": "Zakopane",
+    "type": "rural"
+  },
+  {
+    "prefix": "KWA",
+    "powiat": "wadowicki",
+    "wojewodztwo": "Małopolskie",
+    "seat": "Wadowice",
+    "type": "rural"
+  },
+  {
+    "prefix": "KWI",
+    "powiat": "wielicki",
+    "wojewodztwo": "Małopolskie",
+    "seat": "Wieliczka",
+    "type": "rural"
+  },
+  {
+    "prefix": "LB",
+    "powiat": "Biała Podlaska",
+    "wojewodztwo": "Lubelskie",
+    "seat": "Biała Podlaska",
+    "type": "urban"
+  },
+  {
+    "prefix": "LC",
+    "powiat": "Chełm",
+    "wojewodztwo": "Lubelskie",
+    "seat": "Chełm",
+    "type": "urban"
+  },
+  {
+    "prefix": "LU",
+    "powiat": "Lublin",
+    "wojewodztwo": "Lubelskie",
+    "seat": "Lublin",
+    "type": "urban"
+  },
+  {
+    "prefix": "LZ",
+    "powiat": "Zamość",
+    "wojewodztwo": "Lubelskie",
+    "seat": "Zamość",
+    "type": "urban"
+  },
+  {
+    "prefix": "LBI",
+    "powiat": "bialski",
+    "wojewodztwo": "Lubelskie",
+    "seat": "Biała Podlaska",
+    "type": "rural"
+  },
+  {
+    "prefix": "LBL",
+    "powiat": "biłgorajski",
+    "wojewodztwo": "Lubelskie",
+    "seat": "Biłgoraj",
+    "type": "rural"
+  },
+  {
+    "prefix": "LCH",
+    "powiat": "chełmski",
+    "wojewodztwo": "Lubelskie",
+    "seat": "Chełm",
+    "type": "rural"
+  },
+  {
+    "prefix": "LHR",
+    "powiat": "hrubieszowski",
+    "wojewodztwo": "Lubelskie",
+    "seat": "Hrubieszów",
+    "type": "rural"
+  },
+  {
+    "prefix": "LJA",
+    "powiat": "janowski",
+    "wojewodztwo": "Lubelskie",
+    "seat": "Janów Lubelski",
+    "type": "rural"
+  },
+  {
+    "prefix": "LKR",
+    "powiat": "kraśnicki",
+    "wojewodztwo": "Lubelskie",
+    "seat": "Kraśnik",
+    "type": "rural"
+  },
+  {
+    "prefix": "LKS",
+    "powiat": "krasnostawski",
+    "wojewodztwo": "Lubelskie",
+    "seat": "Krasnystaw",
+    "type": "rural"
+  },
+  {
+    "prefix": "LLB",
+    "powiat": "lubartowski",
+    "wojewodztwo": "Lubelskie",
+    "seat": "Lubartów",
+    "type": "rural"
+  },
+  {
+    "prefix": "LUB",
+    "powiat": "lubelski",
+    "wojewodztwo": "Lubelskie",
+    "seat": "Lublin",
+    "type": "rural"
+  },
+  {
+    "prefix": "LOP",
+    "powiat": "opolski",
+    "wojewodztwo": "Lubelskie",
+    "seat": "Opole Lubelskie",
+    "type": "rural"
+  },
+  {
+    "prefix": "LPA",
+    "powiat": "parczewski",
+    "wojewodztwo": "Lubelskie",
+    "seat": "Parczew",
+    "type": "rural"
+  },
+  {
+    "prefix": "LPU",
+    "powiat": "puławski",
+    "wojewodztwo": "Lubelskie",
+    "seat": "Puławy",
+    "type": "rural"
+  },
+  {
+    "prefix": "LRA",
+    "powiat": "radzyński",
+    "wojewodztwo": "Lubelskie",
+    "seat": "Radzyń Podlaski",
+    "type": "rural"
+  },
+  {
+    "prefix": "LRY",
+    "powiat": "rycki",
+    "wojewodztwo": "Lubelskie",
+    "seat": "Ryki",
+    "type": "rural"
+  },
+  {
+    "prefix": "LSW",
+    "powiat": "świdnicki",
+    "wojewodztwo": "Lubelskie",
+    "seat": "Świdnik",
+    "type": "rural"
+  },
+  {
+    "prefix": "LTM",
+    "powiat": "tomaszowski",
+    "wojewodztwo": "Lubelskie",
+    "seat": "Tomaszów Lubelski",
+    "type": "rural"
+  },
+  {
+    "prefix": "LWL",
+    "powiat": "włodawski",
+    "wojewodztwo": "Lubelskie",
+    "seat": "Włodawa",
+    "type": "rural"
+  },
+  {
+    "prefix": "LZA",
+    "powiat": "zamojski",
+    "wojewodztwo": "Lubelskie",
+    "seat": "Zamość",
+    "type": "rural"
+  },
+  {
+    "prefix": "LLE",
+    "powiat": "łęczyński",
+    "wojewodztwo": "Lubelskie",
+    "seat": "Łęczna",
+    "type": "rural"
+  },
+  {
+    "prefix": "LLU",
+    "powiat": "łukowski",
+    "wojewodztwo": "Lubelskie",
+    "seat": "Łuków",
+    "type": "rural"
+  },
+  {
+    "prefix": "NE",
+    "powiat": "Elbląg",
+    "wojewodztwo": "Warmińsko-mazurskie",
+    "seat": "Elbląg",
+    "type": "urban"
+  },
+  {
+    "prefix": "NO",
+    "powiat": "Olsztyn",
+    "wojewodztwo": "Warmińsko-mazurskie",
+    "seat": "Olsztyn",
+    "type": "urban"
+  },
+  {
+    "prefix": "NBA",
+    "powiat": "bartoszycki",
+    "wojewodztwo": "Warmińsko-mazurskie",
+    "seat": "Bartoszyce",
+    "type": "rural"
+  },
+  {
+    "prefix": "NBR",
+    "powiat": "braniewski",
+    "wojewodztwo": "Warmińsko-mazurskie",
+    "seat": "Braniewo",
+    "type": "rural"
+  },
+  {
+    "prefix": "NDZ",
+    "powiat": "działdowski",
+    "wojewodztwo": "Warmińsko-mazurskie",
+    "seat": "Działdowo",
+    "type": "rural"
+  },
+  {
+    "prefix": "NEB",
+    "powiat": "elbląski",
+    "wojewodztwo": "Warmińsko-mazurskie",
+    "seat": "Elbląg",
+    "type": "rural"
+  },
+  {
+    "prefix": "NEL",
+    "powiat": "ełcki",
+    "wojewodztwo": "Warmińsko-mazurskie",
+    "seat": "Ełk",
+    "type": "rural"
+  },
+  {
+    "prefix": "NGI",
+    "powiat": "giżycki",
+    "wojewodztwo": "Warmińsko-mazurskie",
+    "seat": "Giżycko",
+    "type": "rural"
+  },
+  {
+    "prefix": "NGO",
+    "powiat": "gołdapski",
+    "wojewodztwo": "Warmińsko-mazurskie",
+    "seat": "Gołdap",
+    "type": "rural"
+  },
+  {
+    "prefix": "NIL",
+    "powiat": "iławski",
+    "wojewodztwo": "Warmińsko-mazurskie",
+    "seat": "Iława",
+    "type": "rural"
+  },
+  {
+    "prefix": "NKE",
+    "powiat": "kętrzyński",
+    "wojewodztwo": "Warmińsko-mazurskie",
+    "seat": "Kętrzyn",
+    "type": "rural"
+  },
+  {
+    "prefix": "NLI",
+    "powiat": "lidzbarski",
+    "wojewodztwo": "Warmińsko-mazurskie",
+    "seat": "Lidzbarski",
+    "type": "rural"
+  },
+  {
+    "prefix": "NMR",
+    "powiat": "mrągowski",
+    "wojewodztwo": "Warmińsko-mazurskie",
+    "seat": "Mrągowo",
+    "type": "rural"
+  },
+  {
+    "prefix": "NNI",
+    "powiat": "nidzicki",
+    "wojewodztwo": "Warmińsko-mazurskie",
+    "seat": "Nidzicki",
+    "type": "rural"
+  },
+  {
+    "prefix": "NNM",
+    "powiat": "nowomiejski",
+    "wojewodztwo": "Warmińsko-mazurskie",
+    "seat": "Nowe Miasto Lubawskie",
+    "type": "rural"
+  },
+  {
+    "prefix": "NOE",
+    "powiat": "olecki",
+    "wojewodztwo": "Warmińsko-mazurskie",
+    "seat": "Olecko",
+    "type": "rural"
+  },
+  {
+    "prefix": "NOL",
+    "powiat": "olsztyński",
+    "wojewodztwo": "Warmińsko-mazurskie",
+    "seat": "Olsztyn",
+    "type": "rural"
+  },
+  {
+    "prefix": "NOS",
+    "powiat": "ostródzki",
+    "wojewodztwo": "Warmińsko-mazurskie",
+    "seat": "Ostróda",
+    "type": "rural"
+  },
+  {
+    "prefix": "NPI",
+    "powiat": "piski",
+    "wojewodztwo": "Warmińsko-mazurskie",
+    "seat": "Pisz",
+    "type": "rural"
+  },
+  {
+    "prefix": "NSZ",
+    "powiat": "szczycieński",
+    "wojewodztwo": "Warmińsko-mazurskie",
+    "seat": "Szczytno",
+    "type": "rural"
+  },
+  {
+    "prefix": "NWE",
+    "powiat": "węgorzewski",
+    "wojewodztwo": "Warmińsko-mazurskie",
+    "seat": "Węgorzewo",
+    "type": "rural"
+  },
+  {
+    "prefix": "OP",
+    "powiat": "Opole",
+    "wojewodztwo": "Opolskie",
+    "seat": "Opole",
+    "type": "urban"
+  },
+  {
+    "prefix": "OB",
+    "powiat": "brzeski",
+    "wojewodztwo": "Opolskie",
+    "seat": "Brzeg",
+    "type": "rural"
+  },
+  {
+    "prefix": "OGL",
+    "powiat": "głubczycki",
+    "wojewodztwo": "Opolskie",
+    "seat": "Głubczyce",
+    "type": "rural"
+  },
+  {
+    "prefix": "OK",
+    "powiat": "kędzierzyńsko-kozielski",
+    "wojewodztwo": "Opolskie",
+    "seat": "Kędzierzyn-Koźle",
+    "type": "rural"
+  },
+  {
+    "prefix": "OKL",
+    "powiat": "kluczborski",
+    "wojewodztwo": "Opolskie",
+    "seat": "Kluczbork",
+    "type": "rural"
+  },
+  {
+    "prefix": "OKR",
+    "powiat": "krapkowicki",
+    "wojewodztwo": "Opolskie",
+    "seat": "Krapkowice",
+    "type": "rural"
+  },
+  {
+    "prefix": "ONA",
+    "powiat": "namysłowski",
+    "wojewodztwo": "Opolskie",
+    "seat": "Namysłów",
+    "type": "rural"
+  },
+  {
+    "prefix": "ONY",
+    "powiat": "nyski",
+    "wojewodztwo": "Opolskie",
+    "seat": "Nysa",
+    "type": "rural"
+  },
+  {
+    "prefix": "OOL",
+    "powiat": "oleski",
+    "wojewodztwo": "Opolskie",
+    "seat": "Olesno",
+    "type": "rural"
+  },
+  {
+    "prefix": "OPO",
+    "powiat": "opolski",
+    "wojewodztwo": "Opolskie",
+    "seat": "Opole",
+    "type": "rural"
+  },
+  {
+    "prefix": "OPR",
+    "powiat": "prudnicki",
+    "wojewodztwo": "Opolskie",
+    "seat": "Prudnik",
+    "type": "rural"
+  },
+  {
+    "prefix": "OST",
+    "powiat": "strzelecki",
+    "wojewodztwo": "Opolskie",
+    "seat": "Strzelce Opolskie",
+    "type": "rural"
+  },
+  {
+    "prefix": "PK",
+    "powiat": "i PA Kalisz",
+    "wojewodztwo": "Wielkopolskie",
+    "seat": "i PA Kalisz",
+    "type": "urban"
+  },
+  {
+    "prefix": "PN",
+    "powiat": "Konin dawniej: PKO Konin",
+    "wojewodztwo": "Wielkopolskie",
+    "seat": "Konin dawniej: PKO Konin",
+    "type": "urban"
+  },
+  {
+    "prefix": "PL",
+    "powiat": "Leszno",
+    "wojewodztwo": "Wielkopolskie",
+    "seat": "Leszno",
+    "type": "urban"
+  },
+  {
+    "prefix": "PO",
+    "powiat": "Poznań",
+    "wojewodztwo": "Wielkopolskie",
+    "seat": "Poznań",
+    "type": "urban"
+  },
+  {
+    "prefix": "PY",
+    "powiat": "Poznań",
+    "wojewodztwo": "Wielkopolskie",
+    "seat": "Poznań",
+    "type": "urban"
+  },
+  {
+    "prefix": "PCH",
+    "powiat": "chodzieski",
+    "wojewodztwo": "Wielkopolskie",
+    "seat": "Chodzież",
+    "type": "rural"
+  },
+  {
+    "prefix": "PCT",
+    "powiat": "czarnkowsko-trzcianecki",
+    "wojewodztwo": "Wielkopolskie",
+    "seat": "Czarnków",
+    "type": "rural"
+  },
+  {
+    "prefix": "PGN",
+    "powiat": "gnieźnieński",
+    "wojewodztwo": "Wielkopolskie",
+    "seat": "Gniezno",
+    "type": "rural"
+  },
+  {
+    "prefix": "PGS",
+    "powiat": "gostyński",
+    "wojewodztwo": "Wielkopolskie",
+    "seat": "Gostyń",
+    "type": "rural"
+  },
+  {
+    "prefix": "PGO",
+    "powiat": "grodziski",
+    "wojewodztwo": "Wielkopolskie",
+    "seat": "Grodzisk Wielkopolski",
+    "type": "rural"
+  },
+  {
+    "prefix": "PJA",
+    "powiat": "jarociński",
+    "wojewodztwo": "Wielkopolskie",
+    "seat": "Jarocin",
+    "type": "rural"
+  },
+  {
+    "prefix": "PKA",
+    "powiat": "kaliski",
+    "wojewodztwo": "Wielkopolskie",
+    "seat": "Kalisz",
+    "type": "rural"
+  },
+  {
+    "prefix": "PKE",
+    "powiat": "kępiński",
+    "wojewodztwo": "Wielkopolskie",
+    "seat": "Kępno",
+    "type": "rural"
+  },
+  {
+    "prefix": "PKL",
+    "powiat": "kolski",
+    "wojewodztwo": "Wielkopolskie",
+    "seat": "Koło",
+    "type": "rural"
+  },
+  {
+    "prefix": "PKN",
+    "powiat": "koniński",
+    "wojewodztwo": "Wielkopolskie",
+    "seat": "Konin",
+    "type": "rural"
+  },
+  {
+    "prefix": "PKS",
+    "powiat": "kościański",
+    "wojewodztwo": "Wielkopolskie",
+    "seat": "Kościan",
+    "type": "rural"
+  },
+  {
+    "prefix": "PKR",
+    "powiat": "krotoszyński",
+    "wojewodztwo": "Wielkopolskie",
+    "seat": "Krotoszyn",
+    "type": "rural"
+  },
+  {
+    "prefix": "PLE",
+    "powiat": "leszczyński",
+    "wojewodztwo": "Wielkopolskie",
+    "seat": "Leszno",
+    "type": "rural"
+  },
+  {
+    "prefix": "PMI",
+    "powiat": "międzychodzki",
+    "wojewodztwo": "Wielkopolskie",
+    "seat": "Międzychód",
+    "type": "rural"
+  },
+  {
+    "prefix": "PNT",
+    "powiat": "nowotomyski",
+    "wojewodztwo": "Wielkopolskie",
+    "seat": "Nowy Tomyśl",
+    "type": "rural"
+  },
+  {
+    "prefix": "POB",
+    "powiat": "obornicki",
+    "wojewodztwo": "Wielkopolskie",
+    "seat": "Oborniki",
+    "type": "rural"
+  },
+  {
+    "prefix": "POS",
+    "powiat": "ostrowski",
+    "wojewodztwo": "Wielkopolskie",
+    "seat": "Ostrów Wielkopolski",
+    "type": "rural"
+  },
+  {
+    "prefix": "POT",
+    "powiat": "ostrzeszowski",
+    "wojewodztwo": "Wielkopolskie",
+    "seat": "Ostrzeszów",
+    "type": "rural"
+  },
+  {
+    "prefix": "PP",
+    "powiat": "pilski",
+    "wojewodztwo": "Wielkopolskie",
+    "seat": "Piła",
+    "type": "rural"
+  },
+  {
+    "prefix": "PPL",
+    "powiat": "pleszewski",
+    "wojewodztwo": "Wielkopolskie",
+    "seat": "Pleszew",
+    "type": "rural"
+  },
+  {
+    "prefix": "PZ",
+    "powiat": "poznański",
+    "wojewodztwo": "Wielkopolskie",
+    "seat": "Poznań",
+    "type": "rural"
+  },
+  {
+    "prefix": "PRA",
+    "powiat": "rawicki",
+    "wojewodztwo": "Wielkopolskie",
+    "seat": "Rawicz",
+    "type": "rural"
+  },
+  {
+    "prefix": "PSR",
+    "powiat": "średzki",
+    "wojewodztwo": "Wielkopolskie",
+    "seat": "Środa Wielkopolska",
+    "type": "rural"
+  },
+  {
+    "prefix": "PSE",
+    "powiat": "śremski",
+    "wojewodztwo": "Wielkopolskie",
+    "seat": "Śrem",
+    "type": "rural"
+  },
+  {
+    "prefix": "PSZ",
+    "powiat": "szamotulski",
+    "wojewodztwo": "Wielkopolskie",
+    "seat": "Szamotuły",
+    "type": "rural"
+  },
+  {
+    "prefix": "PSL",
+    "powiat": "słupecki",
+    "wojewodztwo": "Wielkopolskie",
+    "seat": "Słupca",
+    "type": "rural"
+  },
+  {
+    "prefix": "PTU",
+    "powiat": "turecki",
+    "wojewodztwo": "Wielkopolskie",
+    "seat": "Turecki",
+    "type": "rural"
+  },
+  {
+    "prefix": "PWA",
+    "powiat": "wągrowiecki",
+    "wojewodztwo": "Wielkopolskie",
+    "seat": "Wągrowiec",
+    "type": "rural"
+  },
+  {
+    "prefix": "PWL",
+    "powiat": "wolsztyński",
+    "wojewodztwo": "Wielkopolskie",
+    "seat": "Wolsztyn",
+    "type": "rural"
+  },
+  {
+    "prefix": "PWR",
+    "powiat": "wrzesiński",
+    "wojewodztwo": "Wielkopolskie",
+    "seat": "Września",
+    "type": "rural"
+  },
+  {
+    "prefix": "PZL",
+    "powiat": "złotowski",
+    "wojewodztwo": "Wielkopolskie",
+    "seat": "Złotów",
+    "type": "rural"
+  },
+  {
+    "prefix": "RK",
+    "powiat": "Krosno",
+    "wojewodztwo": "Podkarpackie",
+    "seat": "Krosno",
+    "type": "urban"
+  },
+  {
+    "prefix": "RP",
+    "powiat": "Przemyśl",
+    "wojewodztwo": "Podkarpackie",
+    "seat": "Przemyśl",
+    "type": "urban"
+  },
+  {
+    "prefix": "RZ",
+    "powiat": "Rzeszów",
+    "wojewodztwo": "Podkarpackie",
+    "seat": "Rzeszów",
+    "type": "urban"
+  },
+  {
+    "prefix": "RT",
+    "powiat": "Tarnobrzeg",
+    "wojewodztwo": "Podkarpackie",
+    "seat": "Tarnobrzeg",
+    "type": "urban"
+  },
+  {
+    "prefix": "RBI",
+    "powiat": "bieszczadzki",
+    "wojewodztwo": "Podkarpackie",
+    "seat": "Ustrzyki Dolne",
+    "type": "rural"
+  },
+  {
+    "prefix": "RBR",
+    "powiat": "brzozowski",
+    "wojewodztwo": "Podkarpackie",
+    "seat": "Brzozów",
+    "type": "rural"
+  },
+  {
+    "prefix": "RDE",
+    "powiat": "dębicki",
+    "wojewodztwo": "Podkarpackie",
+    "seat": "Dębica",
+    "type": "rural"
+  },
+  {
+    "prefix": "RJA",
+    "powiat": "jarosławski",
+    "wojewodztwo": "Podkarpackie",
+    "seat": "Jarosław",
+    "type": "rural"
+  },
+  {
+    "prefix": "RJS",
+    "powiat": "jasielski",
+    "wojewodztwo": "Podkarpackie",
+    "seat": "Jasielski",
+    "type": "rural"
+  },
+  {
+    "prefix": "RKL",
+    "powiat": "kolbuszowski",
+    "wojewodztwo": "Podkarpackie",
+    "seat": "Kolbuszowa",
+    "type": "rural"
+  },
+  {
+    "prefix": "RKR",
+    "powiat": "krośnieński",
+    "wojewodztwo": "Podkarpackie",
+    "seat": "Krosno Odrzańskie",
+    "type": "rural"
+  },
+  {
+    "prefix": "RLS",
+    "powiat": "leski",
+    "wojewodztwo": "Podkarpackie",
+    "seat": "Lesko",
+    "type": "rural"
+  },
+  {
+    "prefix": "RLE",
+    "powiat": "leżajski",
+    "wojewodztwo": "Podkarpackie",
+    "seat": "Leżajsk",
+    "type": "rural"
+  },
+  {
+    "prefix": "RLU",
+    "powiat": "lubaczowski",
+    "wojewodztwo": "Podkarpackie",
+    "seat": "Lubaczów",
+    "type": "rural"
+  },
+  {
+    "prefix": "RMI",
+    "powiat": "mielecki",
+    "wojewodztwo": "Podkarpackie",
+    "seat": "Mielec",
+    "type": "rural"
+  },
+  {
+    "prefix": "RNI",
+    "powiat": "niżański",
+    "wojewodztwo": "Podkarpackie",
+    "seat": "Nisko",
+    "type": "rural"
+  },
+  {
+    "prefix": "RPR",
+    "powiat": "przemyski",
+    "wojewodztwo": "Podkarpackie",
+    "seat": "Przemyśl",
+    "type": "rural"
+  },
+  {
+    "prefix": "RPZ",
+    "powiat": "przeworski",
+    "wojewodztwo": "Podkarpackie",
+    "seat": "Przeworsk",
+    "type": "rural"
+  },
+  {
+    "prefix": "RRS",
+    "powiat": "ropczycko-sędziszowski",
+    "wojewodztwo": "Podkarpackie",
+    "seat": "Ropczyce",
+    "type": "rural"
+  },
+  {
+    "prefix": "RZE",
+    "powiat": "rzeszowski",
+    "wojewodztwo": "Podkarpackie",
+    "seat": "Rzeszowski",
+    "type": "rural"
+  },
+  {
+    "prefix": "RSA",
+    "powiat": "sanocki",
+    "wojewodztwo": "Podkarpackie",
+    "seat": "Sanok",
+    "type": "rural"
+  },
+  {
+    "prefix": "RST",
+    "powiat": "stalowowolski",
+    "wojewodztwo": "Podkarpackie",
+    "seat": "Stalowa Wola",
+    "type": "rural"
+  },
+  {
+    "prefix": "RSR",
+    "powiat": "strzyżowski",
+    "wojewodztwo": "Podkarpackie",
+    "seat": "Strzyżów",
+    "type": "rural"
+  },
+  {
+    "prefix": "RTA",
+    "powiat": "tarnobrzeski",
+    "wojewodztwo": "Podkarpackie",
+    "seat": "Tarnobrzeg",
+    "type": "rural"
+  },
+  {
+    "prefix": "RLA",
+    "powiat": "łańcucki",
+    "wojewodztwo": "Podkarpackie",
+    "seat": "Łańcut",
+    "type": "rural"
+  },
+  {
+    "prefix": "SB",
+    "powiat": "Bielsko-Biała",
+    "wojewodztwo": "Śląskie",
+    "seat": "Bielsko-Biała",
+    "type": "urban"
+  },
+  {
+    "prefix": "SY",
+    "powiat": "Bytom",
+    "wojewodztwo": "Śląskie",
+    "seat": "Bytom",
+    "type": "urban"
+  },
+  {
+    "prefix": "SH",
+    "powiat": "Chorzów",
+    "wojewodztwo": "Śląskie",
+    "seat": "Chorzów",
+    "type": "urban"
+  },
+  {
+    "prefix": "SC",
+    "powiat": "Częstochowa",
+    "wojewodztwo": "Śląskie",
+    "seat": "Częstochowa",
+    "type": "urban"
+  },
+  {
+    "prefix": "SD",
+    "powiat": "Dąbrowa Górnicza",
+    "wojewodztwo": "Śląskie",
+    "seat": "Dąbrowa Górnicza",
+    "type": "urban"
+  },
+  {
+    "prefix": "SG",
+    "powiat": "Gliwice",
+    "wojewodztwo": "Śląskie",
+    "seat": "Gliwice",
+    "type": "urban"
+  },
+  {
+    "prefix": "SJZ",
+    "powiat": "Jastrzębie-Zdrój",
+    "wojewodztwo": "Śląskie",
+    "seat": "Jastrzębie-Zdrój",
+    "type": "urban"
+  },
+  {
+    "prefix": "SJ",
+    "powiat": "Jaworzno",
+    "wojewodztwo": "Śląskie",
+    "seat": "Jaworzno",
+    "type": "urban"
+  },
+  {
+    "prefix": "SK",
+    "powiat": "Katowice",
+    "wojewodztwo": "Śląskie",
+    "seat": "Katowice",
+    "type": "urban"
+  },
+  {
+    "prefix": "SM",
+    "powiat": "Mysłowice",
+    "wojewodztwo": "Śląskie",
+    "seat": "Mysłowice",
+    "type": "urban"
+  },
+  {
+    "prefix": "SPI",
+    "powiat": "Piekary Śląskie",
+    "wojewodztwo": "Śląskie",
+    "seat": "Piekary Śląskie",
+    "type": "urban"
+  },
+  {
+    "prefix": "SL",
+    "powiat": "Ruda Śląska dawniej: SRS Ruda Śląska",
+    "wojewodztwo": "Śląskie",
+    "seat": "Ruda Śląska dawniej: SRS Ruda Śląska",
+    "type": "urban"
+  },
+  {
+    "prefix": "SR",
+    "powiat": "Rybnik",
+    "wojewodztwo": "Śląskie",
+    "seat": "Rybnik",
+    "type": "urban"
+  },
+  {
+    "prefix": "SI",
+    "powiat": "Siemianowice Śląskie",
+    "wojewodztwo": "Śląskie",
+    "seat": "Siemianowice Śląskie",
+    "type": "urban"
+  },
+  {
+    "prefix": "SO",
+    "powiat": "Sosnowiec",
+    "wojewodztwo": "Śląskie",
+    "seat": "Sosnowiec",
+    "type": "urban"
+  },
+  {
+    "prefix": "SW",
+    "powiat": "Świętochłowice",
+    "wojewodztwo": "Śląskie",
+    "seat": "Świętochłowice",
+    "type": "urban"
+  },
+  {
+    "prefix": "ST",
+    "powiat": "Tychy",
+    "wojewodztwo": "Śląskie",
+    "seat": "Tychy",
+    "type": "urban"
+  },
+  {
+    "prefix": "SZ",
+    "powiat": "Zabrze",
+    "wojewodztwo": "Śląskie",
+    "seat": "Zabrze",
+    "type": "urban"
+  },
+  {
+    "prefix": "SZO",
+    "powiat": "Żory",
+    "wojewodztwo": "Śląskie",
+    "seat": "Żory",
+    "type": "urban"
+  },
+  {
+    "prefix": "SBE",
+    "powiat": "będziński",
+    "wojewodztwo": "Śląskie",
+    "seat": "Będzin",
+    "type": "rural"
+  },
+  {
+    "prefix": "SBI",
+    "powiat": "bielski",
+    "wojewodztwo": "Śląskie",
+    "seat": "Bielsk Podlaski",
+    "type": "rural"
+  },
+  {
+    "prefix": "SBL",
+    "powiat": "bieruńsko-lędziński",
+    "wojewodztwo": "Śląskie",
+    "seat": "Bieruń",
+    "type": "rural"
+  },
+  {
+    "prefix": "SCI",
+    "powiat": "cieszyński",
+    "wojewodztwo": "Śląskie",
+    "seat": "Cieszyński",
+    "type": "rural"
+  },
+  {
+    "prefix": "SCZ",
+    "powiat": "częstochowski",
+    "wojewodztwo": "Śląskie",
+    "seat": "Częstochowa",
+    "type": "rural"
+  },
+  {
+    "prefix": "SGL",
+    "powiat": "gliwicki",
+    "wojewodztwo": "Śląskie",
+    "seat": "Gliwice",
+    "type": "rural"
+  },
+  {
+    "prefix": "SKL",
+    "powiat": "kłobucki",
+    "wojewodztwo": "Śląskie",
+    "seat": "Kłobuck",
+    "type": "rural"
+  },
+  {
+    "prefix": "SLU",
+    "powiat": "lubliniecki",
+    "wojewodztwo": "Śląskie",
+    "seat": "Lubliniec",
+    "type": "rural"
+  },
+  {
+    "prefix": "SMI",
+    "powiat": "mikołowski",
+    "wojewodztwo": "Śląskie",
+    "seat": "Mikołów",
+    "type": "rural"
+  },
+  {
+    "prefix": "SMY",
+    "powiat": "myszkowski",
+    "wojewodztwo": "Śląskie",
+    "seat": "Myszków",
+    "type": "rural"
+  },
+  {
+    "prefix": "SPS",
+    "powiat": "pszczyński",
+    "wojewodztwo": "Śląskie",
+    "seat": "Pszczyna",
+    "type": "rural"
+  },
+  {
+    "prefix": "SRC",
+    "powiat": "raciborski",
+    "wojewodztwo": "Śląskie",
+    "seat": "Racibórz",
+    "type": "rural"
+  },
+  {
+    "prefix": "SRB",
+    "powiat": "rybnicki",
+    "wojewodztwo": "Śląskie",
+    "seat": "Rybnik",
+    "type": "rural"
+  },
+  {
+    "prefix": "STA",
+    "powiat": "tarnogórski",
+    "wojewodztwo": "Śląskie",
+    "seat": "Tarnogórski",
+    "type": "rural"
+  },
+  {
+    "prefix": "SWD",
+    "powiat": "Wodzisławski",
+    "wojewodztwo": "Śląskie",
+    "seat": "Wodzisław Śląski",
+    "type": "rural"
+  },
+  {
+    "prefix": "SWZ",
+    "powiat": "wodzisławski",
+    "wojewodztwo": "Śląskie",
+    "seat": "Wodzisławski",
+    "type": "rural"
+  },
+  {
+    "prefix": "SZA",
+    "powiat": "zawierciański",
+    "wojewodztwo": "Śląskie",
+    "seat": "Zawiercie",
+    "type": "rural"
+  },
+  {
+    "prefix": "SZY",
+    "powiat": "żywiecki",
+    "wojewodztwo": "Śląskie",
+    "seat": "Żywiec",
+    "type": "rural"
+  },
+  {
+    "prefix": "TK",
+    "powiat": "Kielce",
+    "wojewodztwo": "Świętokrzyskie",
+    "seat": "Kielce",
+    "type": "urban"
+  },
+  {
+    "prefix": "TBU",
+    "powiat": "buski",
+    "wojewodztwo": "Świętokrzyskie",
+    "seat": "Busko Zdrój",
+    "type": "rural"
+  },
+  {
+    "prefix": "TJE",
+    "powiat": "jędrzejowski",
+    "wojewodztwo": "Świętokrzyskie",
+    "seat": "Jędrzejów",
+    "type": "rural"
+  },
+  {
+    "prefix": "TKA",
+    "powiat": "kazimierski",
+    "wojewodztwo": "Świętokrzyskie",
+    "seat": "Kazimierza Wielka",
+    "type": "rural"
+  },
+  {
+    "prefix": "TKI",
+    "powiat": "kielecki",
+    "wojewodztwo": "Świętokrzyskie",
+    "seat": "Kielce",
+    "type": "rural"
+  },
+  {
+    "prefix": "TKN",
+    "powiat": "konecki",
+    "wojewodztwo": "Świętokrzyskie",
+    "seat": "Końskie",
+    "type": "rural"
+  },
+  {
+    "prefix": "TOP",
+    "powiat": "opatowski",
+    "wojewodztwo": "Świętokrzyskie",
+    "seat": "Opatów",
+    "type": "rural"
+  },
+  {
+    "prefix": "TOS",
+    "powiat": "ostrowiecki",
+    "wojewodztwo": "Świętokrzyskie",
+    "seat": "Ostrowiec Świętokrzyski",
+    "type": "rural"
+  },
+  {
+    "prefix": "TPI",
+    "powiat": "pińczowski",
+    "wojewodztwo": "Świętokrzyskie",
+    "seat": "Pińczów",
+    "type": "rural"
+  },
+  {
+    "prefix": "TSA",
+    "powiat": "sandomierski",
+    "wojewodztwo": "Świętokrzyskie",
+    "seat": "Sandomierz",
+    "type": "rural"
+  },
+  {
+    "prefix": "TSK",
+    "powiat": "skarżyski",
+    "wojewodztwo": "Świętokrzyskie",
+    "seat": "Skarżysko-Kamienna",
+    "type": "rural"
+  },
+  {
+    "prefix": "TST",
+    "powiat": "starachowicki",
+    "wojewodztwo": "Świętokrzyskie",
+    "seat": "Starachowice",
+    "type": "rural"
+  },
+  {
+    "prefix": "TSZ",
+    "powiat": "staszowski",
+    "wojewodztwo": "Świętokrzyskie",
+    "seat": "Staszów",
+    "type": "rural"
+  },
+  {
+    "prefix": "TLW",
+    "powiat": "włoszczowski",
+    "wojewodztwo": "Świętokrzyskie",
+    "seat": "Włoszczowa",
+    "type": "rural"
+  },
+  {
+    "prefix": "WO",
+    "powiat": "Ostrołęka",
+    "wojewodztwo": "Mazowieckie",
+    "seat": "Ostrołęka",
+    "type": "urban"
+  },
+  {
+    "prefix": "WP",
+    "powiat": "Płock",
+    "wojewodztwo": "Mazowieckie",
+    "seat": "Płock",
+    "type": "urban"
+  },
+  {
+    "prefix": "WR",
+    "powiat": "Radom",
+    "wojewodztwo": "Mazowieckie",
+    "seat": "Radom",
+    "type": "urban"
+  },
+  {
+    "prefix": "WS",
+    "powiat": "Siedlce",
+    "wojewodztwo": "Mazowieckie",
+    "seat": "Siedlce",
+    "type": "urban"
+  },
+  {
+    "prefix": "WB",
+    "powiat": "Warszawa Bemowo",
+    "wojewodztwo": "Mazowieckie",
+    "seat": "Warszawa Bemowo",
+    "type": "district"
+  },
+  {
+    "prefix": "WA",
+    "powiat": "Warszawa Białołęka",
+    "wojewodztwo": "Mazowieckie",
+    "seat": "Warszawa Białołęka",
+    "type": "district"
+  },
+  {
+    "prefix": "WD",
+    "powiat": "Warszawa Bielany",
+    "wojewodztwo": "Mazowieckie",
+    "seat": "Warszawa Bielany",
+    "type": "district"
+  },
+  {
+    "prefix": "WE",
+    "powiat": "Warszawa Mokotów",
+    "wojewodztwo": "Mazowieckie",
+    "seat": "Warszawa Mokotów",
+    "type": "district"
+  },
+  {
+    "prefix": "WU",
+    "powiat": "Warszawa Ochota",
+    "wojewodztwo": "Mazowieckie",
+    "seat": "Warszawa Ochota",
+    "type": "district"
+  },
+  {
+    "prefix": "WH",
+    "powiat": "Warszawa Praga-Północ",
+    "wojewodztwo": "Mazowieckie",
+    "seat": "Warszawa Praga-Północ",
+    "type": "district"
+  },
+  {
+    "prefix": "WF",
+    "powiat": "Warszawa Praga-Południe",
+    "wojewodztwo": "Mazowieckie",
+    "seat": "Warszawa Praga-Południe",
+    "type": "district"
+  },
+  {
+    "prefix": "WW",
+    "powiat": "Warszawa Rembertów, Wilanów, Włochy",
+    "wojewodztwo": "Mazowieckie",
+    "seat": "Warszawa Rembertów, Wilanów, Włochy",
+    "type": "district"
+  },
+  {
+    "prefix": "WI",
+    "powiat": "Warszawa Śródmieście",
+    "wojewodztwo": "Mazowieckie",
+    "seat": "Warszawa Śródmieście",
+    "type": "district"
+  },
+  {
+    "prefix": "WJ",
+    "powiat": "Warszawa Targówek",
+    "wojewodztwo": "Mazowieckie",
+    "seat": "Warszawa Targówek",
+    "type": "district"
+  },
+  {
+    "prefix": "WK",
+    "powiat": "Warszawa Ursus",
+    "wojewodztwo": "Mazowieckie",
+    "seat": "Warszawa Ursus",
+    "type": "district"
+  },
+  {
+    "prefix": "WN",
+    "powiat": "Warszawa Ursynów",
+    "wojewodztwo": "Mazowieckie",
+    "seat": "Warszawa Ursynów",
+    "type": "district"
+  },
+  {
+    "prefix": "WT",
+    "powiat": "Warszawa Wawer",
+    "wojewodztwo": "Mazowieckie",
+    "seat": "Warszawa Wawer",
+    "type": "district"
+  },
+  {
+    "prefix": "WX",
+    "powiat": "Warszawa Żoliborz",
+    "wojewodztwo": "Mazowieckie",
+    "seat": "Warszawa Żoliborz",
+    "type": "district"
+  },
+  {
+    "prefix": "WY",
+    "powiat": "Warszawa Wola",
+    "wojewodztwo": "Mazowieckie",
+    "seat": "Warszawa Wola",
+    "type": "district"
+  },
+  {
+    "prefix": "WBR",
+    "powiat": "białobrzeski",
+    "wojewodztwo": "Mazowieckie",
+    "seat": "Białobrzegi",
+    "type": "rural"
+  },
+  {
+    "prefix": "WCI",
+    "powiat": "ciechanowski",
+    "wojewodztwo": "Mazowieckie",
+    "seat": "Ciechanów",
+    "type": "rural"
+  },
+  {
+    "prefix": "WG",
+    "powiat": "garwoliński",
+    "wojewodztwo": "Mazowieckie",
+    "seat": "Garwolin",
+    "type": "rural"
+  },
+  {
+    "prefix": "WGS",
+    "powiat": "gostyniński",
+    "wojewodztwo": "Mazowieckie",
+    "seat": "Gostynin",
+    "type": "rural"
+  },
+  {
+    "prefix": "WGM",
+    "powiat": "grodziski",
+    "wojewodztwo": "Mazowieckie",
+    "seat": "Grodzisk Mazowiecki",
+    "type": "rural"
+  },
+  {
+    "prefix": "WGR",
+    "powiat": "grójecki",
+    "wojewodztwo": "Mazowieckie",
+    "seat": "Grójec",
+    "type": "rural"
+  },
+  {
+    "prefix": "WKZ",
+    "powiat": "kozienicki",
+    "wojewodztwo": "Mazowieckie",
+    "seat": "Kozienice",
+    "type": "rural"
+  },
+  {
+    "prefix": "WL",
+    "powiat": "legionowski",
+    "wojewodztwo": "Mazowieckie",
+    "seat": "Legionowo",
+    "type": "rural"
+  },
+  {
+    "prefix": "WLI",
+    "powiat": "lipski",
+    "wojewodztwo": "Mazowieckie",
+    "seat": "Lipsko",
+    "type": "rural"
+  },
+  {
+    "prefix": "WMA",
+    "powiat": "makowski",
+    "wojewodztwo": "Mazowieckie",
+    "seat": "Maków Mazowiecki",
+    "type": "rural"
+  },
+  {
+    "prefix": "WM",
+    "powiat": "miński",
+    "wojewodztwo": "Mazowieckie",
+    "seat": "Mińsk Mazowiecki",
+    "type": "rural"
+  },
+  {
+    "prefix": "WML",
+    "powiat": "mławski",
+    "wojewodztwo": "Mazowieckie",
+    "seat": "Mława",
+    "type": "rural"
+  },
+  {
+    "prefix": "WND",
+    "powiat": "nowodworski",
+    "wojewodztwo": "Mazowieckie",
+    "seat": "Nowy Dwór Mazowiecki",
+    "type": "rural"
+  },
+  {
+    "prefix": "WOR",
+    "powiat": "ostrowski",
+    "wojewodztwo": "Mazowieckie",
+    "seat": "Ostrów Mazowiecka",
+    "type": "rural"
+  },
+  {
+    "prefix": "WOS",
+    "powiat": "ostrołęcki",
+    "wojewodztwo": "Mazowieckie",
+    "seat": "Ostrołęka",
+    "type": "rural"
+  },
+  {
+    "prefix": "WOT",
+    "powiat": "otwocki",
+    "wojewodztwo": "Mazowieckie",
+    "seat": "Otwock",
+    "type": "rural"
+  },
+  {
+    "prefix": "WPI",
+    "powiat": "piaseczyński",
+    "wojewodztwo": "Mazowieckie",
+    "seat": "Piaseczyński",
+    "type": "rural"
+  },
+  {
+    "prefix": "WPR",
+    "powiat": "pruszkowski",
+    "wojewodztwo": "Mazowieckie",
+    "seat": "Pruszkowski",
+    "type": "rural"
+  },
+  {
+    "prefix": "WPP",
+    "powiat": "pruszkowski",
+    "wojewodztwo": "Mazowieckie",
+    "seat": "Pruszkowski",
+    "type": "rural"
+  },
+  {
+    "prefix": "WPS",
+    "powiat": "pruszkowski",
+    "wojewodztwo": "Mazowieckie",
+    "seat": "Pruszkowski",
+    "type": "rural"
+  },
+  {
+    "prefix": "WPZ",
+    "powiat": "przasnyski",
+    "wojewodztwo": "Mazowieckie",
+    "seat": "Przasnysz",
+    "type": "rural"
+  },
+  {
+    "prefix": "WPY",
+    "powiat": "przysuski",
+    "wojewodztwo": "Mazowieckie",
+    "seat": "Przysucha",
+    "type": "rural"
+  },
+  {
+    "prefix": "WPU",
+    "powiat": "pułtuski",
+    "wojewodztwo": "Mazowieckie",
+    "seat": "Pułtusk",
+    "type": "rural"
+  },
+  {
+    "prefix": "WPL",
+    "powiat": "płocki",
+    "wojewodztwo": "Mazowieckie",
+    "seat": "Płock",
+    "type": "rural"
+  },
+  {
+    "prefix": "WPN",
+    "powiat": "płoński",
+    "wojewodztwo": "Mazowieckie",
+    "seat": "Płońsk",
+    "type": "rural"
+  },
+  {
+    "prefix": "WRA",
+    "powiat": "radomski",
+    "wojewodztwo": "Mazowieckie",
+    "seat": "Radom",
+    "type": "rural"
+  },
+  {
+    "prefix": "WSI",
+    "powiat": "siedlecki",
+    "wojewodztwo": "Mazowieckie",
+    "seat": "Siedlce",
+    "type": "rural"
+  },
+  {
+    "prefix": "WSE",
+    "powiat": "sierpecki",
+    "wojewodztwo": "Mazowieckie",
+    "seat": "Sierpc",
+    "type": "rural"
+  },
+  {
+    "prefix": "WSC",
+    "powiat": "sochaczewski",
+    "wojewodztwo": "Mazowieckie",
+    "seat": "Sochaczew",
+    "type": "rural"
+  },
+  {
+    "prefix": "WSK",
+    "powiat": "sokołowski",
+    "wojewodztwo": "Mazowieckie",
+    "seat": "Sokołów Podlaski",
+    "type": "rural"
+  },
+  {
+    "prefix": "WSZ",
+    "powiat": "szydłowiecki",
+    "wojewodztwo": "Mazowieckie",
+    "seat": "Szydłowiec",
+    "type": "rural"
+  },
+  {
+    "prefix": "WZ",
+    "powiat": "warszawski zachodni",
+    "wojewodztwo": "Mazowieckie",
+    "seat": "Ożarów Mazowiecki",
+    "type": "rural"
+  },
+  {
+    "prefix": "WWE",
+    "powiat": "węgrowski",
+    "wojewodztwo": "Mazowieckie",
+    "seat": "Węgrów",
+    "type": "rural"
+  },
+  {
+    "prefix": "WWL",
+    "powiat": "wołomiński",
+    "wojewodztwo": "Mazowieckie",
+    "seat": "Wołomin",
+    "type": "rural"
+  },
+  {
+    "prefix": "WV",
+    "powiat": "wołomiński",
+    "wojewodztwo": "Mazowieckie",
+    "seat": "Wołomin",
+    "type": "rural"
+  },
+  {
+    "prefix": "WWY",
+    "powiat": "wyszkowski",
+    "wojewodztwo": "Mazowieckie",
+    "seat": "Wyszków",
+    "type": "rural"
+  },
+  {
+    "prefix": "WZU",
+    "powiat": "żuromiński",
+    "wojewodztwo": "Mazowieckie",
+    "seat": "Żuromin",
+    "type": "rural"
+  },
+  {
+    "prefix": "WZW",
+    "powiat": "zwoleński",
+    "wojewodztwo": "Mazowieckie",
+    "seat": "Zwoleń",
+    "type": "rural"
+  },
+  {
+    "prefix": "WZY",
+    "powiat": "żyrardowski",
+    "wojewodztwo": "Mazowieckie",
+    "seat": "Żyrardów",
+    "type": "rural"
+  },
+  {
+    "prefix": "WLS",
+    "powiat": "łosicki",
+    "wojewodztwo": "Mazowieckie",
+    "seat": "Łosice",
+    "type": "rural"
+  },
+  {
+    "prefix": "ZK",
+    "powiat": "Koszalin",
+    "wojewodztwo": "Zachodniopomorskie",
+    "seat": "Koszalin",
+    "type": "urban"
+  },
+  {
+    "prefix": "ZSW",
+    "powiat": "Świnoujście",
+    "wojewodztwo": "Zachodniopomorskie",
+    "seat": "Świnoujście",
+    "type": "urban"
+  },
+  {
+    "prefix": "ZS",
+    "powiat": "Szczecin",
+    "wojewodztwo": "Zachodniopomorskie",
+    "seat": "Szczecin",
+    "type": "urban"
+  },
+  {
+    "prefix": "ZZ",
+    "powiat": "Szczecin",
+    "wojewodztwo": "Zachodniopomorskie",
+    "seat": "Szczecin",
+    "type": "urban"
+  },
+  {
+    "prefix": "ZBI",
+    "powiat": "białogardzki",
+    "wojewodztwo": "Zachodniopomorskie",
+    "seat": "Białogard",
+    "type": "rural"
+  },
+  {
+    "prefix": "ZCH",
+    "powiat": "choszczeński",
+    "wojewodztwo": "Zachodniopomorskie",
+    "seat": "Choszczno",
+    "type": "rural"
+  },
+  {
+    "prefix": "ZDR",
+    "powiat": "drawski",
+    "wojewodztwo": "Zachodniopomorskie",
+    "seat": "Drawsko Pomorskie",
+    "type": "rural"
+  },
+  {
+    "prefix": "ZGL",
+    "powiat": "goleniowski",
+    "wojewodztwo": "Zachodniopomorskie",
+    "seat": "Goleniów",
+    "type": "rural"
+  },
+  {
+    "prefix": "ZGY",
+    "powiat": "gryficki",
+    "wojewodztwo": "Zachodniopomorskie",
+    "seat": "Gryfice",
+    "type": "rural"
+  },
+  {
+    "prefix": "ZGR",
+    "powiat": "gryfiński",
+    "wojewodztwo": "Zachodniopomorskie",
+    "seat": "Gryfino",
+    "type": "rural"
+  },
+  {
+    "prefix": "ZKA",
+    "powiat": "kamieński",
+    "wojewodztwo": "Zachodniopomorskie",
+    "seat": "Kamień Pomorski",
+    "type": "rural"
+  },
+  {
+    "prefix": "ZKO",
+    "powiat": "koszaliński",
+    "wojewodztwo": "Zachodniopomorskie",
+    "seat": "Koszalin",
+    "type": "rural"
+  },
+  {
+    "prefix": "ZKL",
+    "powiat": "kołobrzeski",
+    "wojewodztwo": "Zachodniopomorskie",
+    "seat": "Kołobrzeg",
+    "type": "rural"
+  },
+  {
+    "prefix": "ZMY",
+    "powiat": "myśliborski",
+    "wojewodztwo": "Zachodniopomorskie",
+    "seat": "Myślibórz",
+    "type": "rural"
+  },
+  {
+    "prefix": "ZPL",
+    "powiat": "policki",
+    "wojewodztwo": "Zachodniopomorskie",
+    "seat": "Police",
+    "type": "rural"
+  },
+  {
+    "prefix": "ZPY",
+    "powiat": "pyrzycki",
+    "wojewodztwo": "Zachodniopomorskie",
+    "seat": "Pyrzyce",
+    "type": "rural"
+  },
+  {
+    "prefix": "ZST",
+    "powiat": "stargardzki",
+    "wojewodztwo": "Zachodniopomorskie",
+    "seat": "Stargard",
+    "type": "rural"
+  },
+  {
+    "prefix": "ZSD",
+    "powiat": "świdwiński",
+    "wojewodztwo": "Zachodniopomorskie",
+    "seat": "Świdwin",
+    "type": "rural"
+  },
+  {
+    "prefix": "ZSZ",
+    "powiat": "szczecinecki",
+    "wojewodztwo": "Zachodniopomorskie",
+    "seat": "Szczecinek",
+    "type": "rural"
+  },
+  {
+    "prefix": "ZSL",
+    "powiat": "sławieński",
+    "wojewodztwo": "Zachodniopomorskie",
+    "seat": "Sławno",
+    "type": "rural"
+  },
+  {
+    "prefix": "ZWA",
+    "powiat": "wałecki",
+    "wojewodztwo": "Zachodniopomorskie",
+    "seat": "Wałcz",
+    "type": "rural"
+  },
+  {
+    "prefix": "ZLO",
+    "powiat": "łobeski",
+    "wojewodztwo": "Zachodniopomorskie",
+    "seat": "Łobez",
+    "type": "rural"
+  },
+  {
+    "prefix": "HA",
+    "powiat": "Centralne Biuro Antykorupcyjne",
+    "wojewodztwo": "Mazowieckie",
+    "seat": "Warszawa",
+    "type": "service"
+  },
+  {
+    "prefix": "HB",
+    "powiat": "Służba Ochrony Państwa",
+    "wojewodztwo": "Mazowieckie",
+    "seat": "Warszawa",
+    "type": "service"
+  },
+  {
+    "prefix": "HK",
+    "powiat": "Agencja Bezpieczeństwa Wewnętrznego",
+    "wojewodztwo": "Mazowieckie",
+    "seat": "Warszawa",
+    "type": "service"
+  },
+  {
+    "prefix": "HS",
+    "powiat": "Krajowa Administracja Skarbowa",
+    "wojewodztwo": "Mazowieckie",
+    "seat": "Warszawa",
+    "type": "service"
+  },
+  {
+    "prefix": "HW",
+    "powiat": "Straż Marszałkowska",
+    "wojewodztwo": "Mazowieckie",
+    "seat": "Warszawa",
+    "type": "service"
+  },
+  {
+    "prefix": "HPA",
+    "powiat": "Komenda Główna Policji",
+    "wojewodztwo": "Mazowieckie",
+    "seat": "Warszawa",
+    "type": "service"
+  },
+  {
+    "prefix": "HPH",
+    "powiat": "KWP Radom",
+    "wojewodztwo": "Mazowieckie",
+    "seat": "Radom",
+    "type": "service"
+  },
+  {
+    "prefix": "HPG",
+    "powiat": "KWP Kraków",
+    "wojewodztwo": "Małopolskie",
+    "seat": "Kraków",
+    "type": "service"
+  },
+  {
+    "prefix": "HPD",
+    "powiat": "KWP Lublin",
+    "wojewodztwo": "Lubelskie",
+    "seat": "Lublin",
+    "type": "service"
+  },
+  {
+    "prefix": "HPF",
+    "powiat": "KWP Łódź",
+    "wojewodztwo": "Łódzkie",
+    "seat": "Łódź",
+    "type": "service"
+  },
+  {
+    "prefix": "HPB",
+    "powiat": "KWP Wrocław",
+    "wojewodztwo": "Dolnośląskie",
+    "seat": "Wrocław",
+    "type": "service"
+  },
+  {
+    "prefix": "HPE",
+    "powiat": "KWP Gorzów Wielkopolski",
+    "wojewodztwo": "Lubuskie",
+    "seat": "Gorzów Wielkopolski",
+    "type": "service"
+  },
+  {
+    "prefix": "HPW",
+    "powiat": "KWP Szczecin",
+    "wojewodztwo": "Zachodniopomorskie",
+    "seat": "Szczecin",
+    "type": "service"
+  },
+  {
+    "prefix": "HPC",
+    "powiat": "KWP Bydgoszcz",
+    "wojewodztwo": "Kujawsko-pomorskie",
+    "seat": "Bydgoszcz",
+    "type": "service"
+  },
+  {
+    "prefix": "HPT",
+    "powiat": "KWP Olsztyn",
+    "wojewodztwo": "Warmińsko-mazurskie",
+    "seat": "Olsztyn",
+    "type": "service"
+  },
+  {
+    "prefix": "HPL",
+    "powiat": "Akademia Policji w Szczytnie",
+    "wojewodztwo": "Warmińsko-mazurskie",
+    "seat": "Szczytno",
+    "type": "service"
+  },
+  {
+    "prefix": "HPJ",
+    "powiat": "KWP Opole",
+    "wojewodztwo": "Opolskie",
+    "seat": "Opole",
+    "type": "service"
+  },
+  {
+    "prefix": "HPP",
+    "powiat": "KWP Katowice",
+    "wojewodztwo": "Śląskie",
+    "seat": "Katowice",
+    "type": "service"
+  },
+  {
+    "prefix": "HPM",
+    "powiat": "KWP Białystok",
+    "wojewodztwo": "Podlaskie",
+    "seat": "Białystok",
+    "type": "service"
+  },
+  {
+    "prefix": "HPS",
+    "powiat": "KWP Kielce",
+    "wojewodztwo": "Świętokrzyskie",
+    "seat": "Kielce",
+    "type": "service"
+  },
+  {
+    "prefix": "HPN",
+    "powiat": "KWP Gdańsk",
+    "wojewodztwo": "Pomorskie",
+    "seat": "Gdańsk",
+    "type": "service"
+  },
+  {
+    "prefix": "HPU",
+    "powiat": "KWP Poznań",
+    "wojewodztwo": "Wielkopolskie",
+    "seat": "Poznań",
+    "type": "service"
+  },
+  {
+    "prefix": "HPZ",
+    "powiat": "Komenda Stołeczna Policji",
+    "wojewodztwo": "Mazowieckie",
+    "seat": "Warszawa",
+    "type": "service"
+  },
+  {
+    "prefix": "HCA",
+    "powiat": "Straż Graniczna: Olsztyn",
+    "wojewodztwo": "Warmińsko-mazurskie",
+    "seat": "Olsztyn",
+    "type": "service"
+  },
+  {
+    "prefix": "HCB",
+    "powiat": "Straż Graniczna: Białystok",
+    "wojewodztwo": "Podlaskie",
+    "seat": "Białystok",
+    "type": "service"
+  },
+  {
+    "prefix": "HCC",
+    "powiat": "Straż Graniczna: Biała Podlaska",
+    "wojewodztwo": "Lubelskie",
+    "seat": "Biała Podlaska",
+    "type": "service"
+  },
+  {
+    "prefix": "HCD",
+    "powiat": "Straż Graniczna: Przemyśl",
+    "wojewodztwo": "Podkarpackie",
+    "seat": "Przemyśl",
+    "type": "service"
+  },
+  {
+    "prefix": "HCE",
+    "powiat": "Straż Graniczna: Kraków",
+    "wojewodztwo": "Małopolskie",
+    "seat": "Kraków",
+    "type": "service"
+  },
+  {
+    "prefix": "HCF",
+    "powiat": "Straż Graniczna: Katowice",
+    "wojewodztwo": "Śląskie",
+    "seat": "Katowice",
+    "type": "service"
+  },
+  {
+    "prefix": "HCG",
+    "powiat": "Straż Graniczna: Wrocław",
+    "wojewodztwo": "Dolnośląskie",
+    "seat": "Wrocław",
+    "type": "service"
+  },
+  {
+    "prefix": "HCH",
+    "powiat": "Straż Graniczna: Rzepin",
+    "wojewodztwo": "Lubuskie",
+    "seat": "Rzepin",
+    "type": "service"
+  },
+  {
+    "prefix": "HCI",
+    "powiat": "Nadwiślański OSG",
+    "wojewodztwo": "Mazowieckie",
+    "seat": "Warszawa",
+    "type": "service"
+  },
+  {
+    "prefix": "UA",
+    "powiat": "Samochody osobowe",
+    "wojewodztwo": "Polska",
+    "seat": "Warszawa",
+    "type": "military"
+  },
+  {
+    "prefix": "UB",
+    "powiat": "Transportery opancerzone i czołgi",
+    "wojewodztwo": "Polska",
+    "seat": "Warszawa",
+    "type": "military"
+  },
+  {
+    "prefix": "UC",
+    "powiat": "Samochody ciężarowe",
+    "wojewodztwo": "Polska",
+    "seat": "Warszawa",
+    "type": "military"
+  },
+  {
+    "prefix": "UD",
+    "powiat": "Autobusy",
+    "wojewodztwo": "Polska",
+    "seat": "Warszawa",
+    "type": "military"
+  },
+  {
+    "prefix": "UE",
+    "powiat": "Pojazdy na podwoziu ciężarowym",
+    "wojewodztwo": "Polska",
+    "seat": "Warszawa",
+    "type": "military"
+  },
+  {
+    "prefix": "UF",
+    "powiat": "Siły Powietrzne",
+    "wojewodztwo": "Mazowieckie",
+    "seat": "Warszawa",
+    "type": "military"
+  },
+  {
+    "prefix": "UG",
+    "powiat": "Pojazdy specjalne",
+    "wojewodztwo": "Polska",
+    "seat": "Warszawa",
+    "type": "military"
+  },
+  {
+    "prefix": "UH",
+    "powiat": "Wojska Specjalne",
+    "wojewodztwo": "Małopolskie",
+    "seat": "Kraków",
+    "type": "military"
+  },
+  {
+    "prefix": "UI",
+    "powiat": "Przyczepy i naczepy",
+    "wojewodztwo": "Polska",
+    "seat": "Warszawa",
+    "type": "military"
+  },
+  {
+    "prefix": "UK",
+    "powiat": "Przyczepy i naczepy",
+    "wojewodztwo": "Polska",
+    "seat": "Warszawa",
+    "type": "military"
+  },
+  {
+    "prefix": "UL",
+    "powiat": "Ciągniki siodłowe",
+    "wojewodztwo": "Polska",
+    "seat": "Warszawa",
+    "type": "military"
+  },
+  {
+    "prefix": "UN",
+    "powiat": "Inne pojazdy wojskowe",
+    "wojewodztwo": "Polska",
+    "seat": "Warszawa",
+    "type": "military"
+  },
+  {
+    "prefix": "HPO",
+    "powiat": "KWP Rzeszów",
+    "wojewodztwo": "Podkarpackie",
+    "seat": "Rzeszów",
+    "type": "service"
+  },
+  {
+    "prefix": "UJ",
+    "powiat": "Przyczepy i naczepy",
+    "wojewodztwo": "Polska",
+    "seat": "Warszawa",
+    "type": "military"
+  },
+  {
+    "prefix": "HCJ",
+    "powiat": "Straż Graniczna: Szczecin",
+    "wojewodztwo": "Zachodniopomorskie",
+    "seat": "Szczecin",
+    "type": "service"
+  },
+  {
+    "prefix": "HCK",
+    "powiat": "Straż Graniczna: Gdynia",
+    "wojewodztwo": "Pomorskie",
+    "seat": "Gdynia",
+    "type": "service"
+  },
+  {
+    "prefix": "HCL",
+    "powiat": "Straż Graniczna: Warszawa",
+    "wojewodztwo": "Mazowieckie",
+    "seat": "Warszawa",
+    "type": "service"
+  },
+  {
+    "prefix": "HCM",
+    "powiat": "Straż Graniczna: Toruń",
+    "wojewodztwo": "Kujawsko-pomorskie",
+    "seat": "Toruń",
+    "type": "service"
+  },
+  {
+    "prefix": "HCN",
+    "powiat": "Straż Graniczna: Łódź",
+    "wojewodztwo": "Łódzkie",
+    "seat": "Łódź",
+    "type": "service"
+  },
+  {
+    "prefix": "HCO",
+    "powiat": "Straż Graniczna: Poznań",
+    "wojewodztwo": "Wielkopolskie",
+    "seat": "Poznań",
+    "type": "service"
+  },
+  {
+    "prefix": "HCP",
+    "powiat": "Straż Graniczna: Opole",
+    "wojewodztwo": "Opolskie",
+    "seat": "Opole",
+    "type": "service"
+  },
+  {
+    "prefix": "HCR",
+    "powiat": "Straż Graniczna: Kielce",
+    "wojewodztwo": "Świętokrzyskie",
+    "seat": "Kielce",
+    "type": "service"
+  },
+  {
+    "prefix": "HWA",
+    "powiat": "Straż Graniczna: samochody i przyczepy",
+    "wojewodztwo": "Polska",
+    "seat": "Warszawa",
+    "type": "service"
+  },
+  {
+    "prefix": "HWK",
+    "powiat": "Straż Graniczna: motocykle, quady, skutery, traktory",
+    "wojewodztwo": "Polska",
+    "seat": "Warszawa",
+    "type": "service"
+  },
+  {
+    "prefix": "HSB",
+    "powiat": "Krajowa Administracja Skarbowa",
+    "wojewodztwo": "Podlaskie",
+    "seat": "Białystok",
+    "type": "service"
+  },
+  {
+    "prefix": "HSC",
+    "powiat": "Krajowa Administracja Skarbowa",
+    "wojewodztwo": "Kujawsko-pomorskie",
+    "seat": "Toruń",
+    "type": "service"
+  },
+  {
+    "prefix": "HSD",
+    "powiat": "Krajowa Administracja Skarbowa",
+    "wojewodztwo": "Dolnośląskie",
+    "seat": "Wrocław",
+    "type": "service"
+  },
+  {
+    "prefix": "HSE",
+    "powiat": "Krajowa Administracja Skarbowa",
+    "wojewodztwo": "Łódzkie",
+    "seat": "Łódź",
+    "type": "service"
+  },
+  {
+    "prefix": "HSF",
+    "powiat": "Krajowa Administracja Skarbowa",
+    "wojewodztwo": "Lubuskie",
+    "seat": "Zielona Góra",
+    "type": "service"
+  },
+  {
+    "prefix": "HSG",
+    "powiat": "Krajowa Administracja Skarbowa",
+    "wojewodztwo": "Pomorskie",
+    "seat": "Gdańsk",
+    "type": "service"
+  },
+  {
+    "prefix": "HSK",
+    "powiat": "Krajowa Administracja Skarbowa",
+    "wojewodztwo": "Małopolskie",
+    "seat": "Kraków",
+    "type": "service"
+  },
+  {
+    "prefix": "HSL",
+    "powiat": "Krajowa Administracja Skarbowa",
+    "wojewodztwo": "Lubelskie",
+    "seat": "Lublin",
+    "type": "service"
+  },
+  {
+    "prefix": "HSN",
+    "powiat": "Krajowa Administracja Skarbowa",
+    "wojewodztwo": "Warmińsko-mazurskie",
+    "seat": "Olsztyn",
+    "type": "service"
+  },
+  {
+    "prefix": "HSO",
+    "powiat": "Krajowa Administracja Skarbowa",
+    "wojewodztwo": "Opolskie",
+    "seat": "Opole",
+    "type": "service"
+  },
+  {
+    "prefix": "HSP",
+    "powiat": "Krajowa Administracja Skarbowa",
+    "wojewodztwo": "Wielkopolskie",
+    "seat": "Poznań",
+    "type": "service"
+  },
+  {
+    "prefix": "HSR",
+    "powiat": "Krajowa Administracja Skarbowa",
+    "wojewodztwo": "Podkarpackie",
+    "seat": "Rzeszów",
+    "type": "service"
+  },
+  {
+    "prefix": "HSS",
+    "powiat": "Krajowa Administracja Skarbowa",
+    "wojewodztwo": "Śląskie",
+    "seat": "Katowice",
+    "type": "service"
+  },
+  {
+    "prefix": "HST",
+    "powiat": "Krajowa Administracja Skarbowa",
+    "wojewodztwo": "Świętokrzyskie",
+    "seat": "Kielce",
+    "type": "service"
+  },
+  {
+    "prefix": "HSW",
+    "powiat": "Krajowa Administracja Skarbowa",
+    "wojewodztwo": "Mazowieckie",
+    "seat": "Warszawa",
+    "type": "service"
+  },
+  {
+    "prefix": "HSZ",
+    "powiat": "Krajowa Administracja Skarbowa",
+    "wojewodztwo": "Zachodniopomorskie",
+    "seat": "Szczecin",
+    "type": "service"
+  }
+]
